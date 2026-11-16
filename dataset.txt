@@ -1,0 +1,2562 @@
+### SECTION: FACTS
+### FORMAT: one fact per line, "FACT [topic]: statement."
+
+FACT [astronomy]: The Sun is a G-type main-sequence star that contains about 99.86 percent of the mass of the Solar System.
+FACT [astronomy]: Light from the Sun takes about 8 minutes and 20 seconds to reach Earth.
+FACT [astronomy]: Mercury is the smallest planet in the Solar System and the closest to the Sun.
+FACT [astronomy]: Venus rotates in the opposite direction to most planets, which is called retrograde rotation.
+FACT [astronomy]: Jupiter is the largest planet in the Solar System and has at least 90 known moons.
+FACT [astronomy]: Saturn's rings are made mostly of water ice particles.
+FACT [astronomy]: Neptune was the first planet located through mathematical prediction before it was observed.
+FACT [astronomy]: A light-year is the distance light travels in one year, roughly 9.46 trillion kilometers.
+FACT [astronomy]: The Milky Way is a barred spiral galaxy that contains hundreds of billions of stars.
+FACT [astronomy]: The Moon is gradually moving away from Earth at about 3.8 centimeters per year.
+FACT [astronomy]: A neutron star can be as dense as an atomic nucleus, packing more than the Sun's mass into a sphere about 20 kilometers across.
+FACT [astronomy]: The event horizon of a black hole is the boundary beyond which nothing, including light, can escape.
+FACT [physics]: The speed of light in a vacuum is exactly 299,792,458 meters per second.
+FACT [physics]: Energy and mass are related by the equation E = mc^2.
+FACT [physics]: Absolute zero is 0 kelvin, which equals -273.15 degrees Celsius.
+FACT [physics]: Sound cannot travel through a vacuum because it needs a medium to propagate.
+FACT [physics]: The SI unit of force is the newton, defined as one kilogram meter per second squared.
+FACT [physics]: Electrons carry negative electric charge, and protons carry positive electric charge.
+FACT [physics]: Newton's first law states that an object stays at rest or in uniform motion unless acted on by a net force.
+FACT [physics]: In an isolated system, total energy is conserved.
+FACT [physics]: The second law of thermodynamics states that the total entropy of an isolated system never decreases.
+FACT [physics]: Planck's constant is approximately 6.626 x 10^-34 joule seconds.
+FACT [physics]: Gravitational acceleration near Earth's surface is about 9.81 meters per second squared.
+FACT [chemistry]: Water is composed of two hydrogen atoms and one oxygen atom, with formula H2O.
+FACT [chemistry]: The periodic table is arranged by increasing atomic number.
+FACT [chemistry]: Helium is the second lightest element and is chemically inert.
+FACT [chemistry]: Gold has the chemical symbol Au, from the Latin word aurum.
+FACT [chemistry]: Sodium has the chemical symbol Na, from the Latin word natrium.
+FACT [chemistry]: A pH of 7 is neutral at 25 degrees Celsius, below 7 is acidic, and above 7 is basic.
+FACT [chemistry]: Diamond and graphite are both forms of pure carbon with different crystal structures.
+FACT [chemistry]: Oxygen makes up about 21 percent of Earth's atmosphere by volume.
+FACT [chemistry]: Nitrogen makes up about 78 percent of Earth's atmosphere by volume.
+FACT [chemistry]: Table salt is sodium chloride, with formula NaCl.
+FACT [biology]: DNA is a double helix made of nucleotides containing the bases adenine, thymine, cytosine, and guanine.
+FACT [biology]: Mitochondria produce most of a cell's usable chemical energy in the form of ATP.
+FACT [biology]: Photosynthesis converts light energy, water, and carbon dioxide into glucose and oxygen.
+FACT [biology]: Humans typically have 23 pairs of chromosomes, for a total of 46.
+FACT [biology]: Red blood cells carry oxygen using the protein hemoglobin.
+FACT [biology]: The human adult skeleton has 206 bones.
+FACT [biology]: Penicillin was discovered by Alexander Fleming in 1928.
+FACT [biology]: Charles Darwin published On the Origin of Species in 1859.
+FACT [biology]: The blue whale is the largest animal known to have ever lived.
+FACT [biology]: Octopuses have three hearts and blue blood.
+FACT [biology]: Bees communicate the location of food through a movement pattern called the waggle dance.
+FACT [biology]: Viruses cannot reproduce on their own and need a host cell to replicate.
+FACT [earth-science]: Earth's age is estimated at about 4.54 billion years.
+FACT [earth-science]: Mount Everest is the highest mountain above sea level, at about 8,849 meters.
+FACT [earth-science]: The Pacific Ocean is the largest and deepest ocean on Earth.
+FACT [earth-science]: The Mariana Trench contains the deepest known point in the ocean, Challenger Deep, at nearly 11,000 meters.
+FACT [earth-science]: Plate tectonics describes the slow movement of large plates that make up Earth's lithosphere.
+FACT [earth-science]: The Sahara is the largest hot desert in the world.
+FACT [earth-science]: Antarctica is the driest, coldest, and windiest continent.
+FACT [earth-science]: The Nile and the Amazon are the two longest rivers, and which is longest depends on how measurement is defined.
+FACT [earth-science]: The Richter scale and the moment magnitude scale are used to measure earthquake size.
+FACT [earth-science]: The ozone layer absorbs most of the Sun's harmful ultraviolet radiation.
+FACT [geography]: Russia is the largest country in the world by area.
+FACT [geography]: Vatican City is the smallest country in the world by area.
+FACT [geography]: Canada has the longest coastline of any country.
+FACT [geography]: The capital of Australia is Canberra.
+FACT [geography]: The capital of Canada is Ottawa.
+FACT [geography]: The capital of Japan is Tokyo.
+FACT [geography]: The capital of Brazil is Brasilia.
+FACT [geography]: The capital of Egypt is Cairo.
+FACT [geography]: The capital of India is New Delhi.
+FACT [geography]: The capital of Kenya is Nairobi.
+FACT [geography]: The capital of Turkey is Ankara.
+FACT [geography]: The capital of South Korea is Seoul.
+FACT [geography]: Asia is the largest continent by area and population.
+FACT [geography]: Lake Baikal in Russia is the deepest lake in the world and holds about 20 percent of the world's unfrozen fresh surface water.
+FACT [geography]: Indonesia has more than 17,000 islands.
+FACT [history]: The French Revolution began in 1789.
+FACT [history]: World War II ended in 1945.
+FACT [history]: World War I began in 1914.
+FACT [history]: The Berlin Wall fell on November 9, 1989.
+FACT [history]: Apollo 11 landed the first humans on the Moon on July 20, 1969.
+FACT [history]: The Magna Carta was sealed in 1215.
+FACT [history]: The printing press with movable type was introduced in Europe by Johannes Gutenberg around 1440.
+FACT [history]: The Roman Empire in the West is conventionally dated to have ended in 476 CE.
+FACT [history]: The Declaration of Independence of the United States was adopted on July 4, 1776.
+FACT [history]: India became independent from British rule on August 15, 1947.
+FACT [history]: The Great Wall of China was built and rebuilt over many centuries by multiple dynasties.
+FACT [history]: The Industrial Revolution began in Great Britain in the late 18th century.
+FACT [history]: Yuri Gagarin became the first human in space on April 12, 1961.
+FACT [history]: The Ottoman capital Constantinople fell in 1453.
+FACT [mathematics]: Pi is the ratio of a circle's circumference to its diameter and is approximately 3.14159.
+FACT [mathematics]: A prime number is a natural number greater than 1 with exactly two positive divisors.
+FACT [mathematics]: 2 is the only even prime number.
+FACT [mathematics]: The Pythagorean theorem states that in a right triangle a^2 + b^2 = c^2, where c is the hypotenuse.
+FACT [mathematics]: Euler's identity is e^(i*pi) + 1 = 0.
+FACT [mathematics]: The sum of the interior angles of a triangle in Euclidean geometry is 180 degrees.
+FACT [mathematics]: The Fibonacci sequence begins 0, 1, 1, 2, 3, 5, 8, 13.
+FACT [mathematics]: Zero factorial is defined to equal 1.
+FACT [mathematics]: There are infinitely many prime numbers, which Euclid proved around 300 BCE.
+FACT [mathematics]: The square root of 2 is irrational.
+FACT [mathematics]: Fermat's Last Theorem was proved by Andrew Wiles and published in 1995.
+FACT [mathematics]: The derivative of sin(x) is cos(x).
+FACT [mathematics]: The integral of 1/x is the natural logarithm of the absolute value of x, plus a constant.
+FACT [computing]: A bit is the smallest unit of digital information and has a value of 0 or 1.
+FACT [computing]: One byte is eight bits.
+FACT [computing]: Alan Turing described the abstract Turing machine in 1936.
+FACT [computing]: The World Wide Web was proposed by Tim Berners-Lee in 1989 at CERN.
+FACT [computing]: Binary search on a sorted array runs in O(log n) time.
+FACT [computing]: Comparison-based sorting has a lower bound of O(n log n) in the worst case.
+FACT [computing]: A hash table offers average-case O(1) lookup.
+FACT [computing]: TCP provides reliable ordered delivery, while UDP does not guarantee delivery or order.
+FACT [computing]: HTTP status code 404 means the requested resource was not found.
+FACT [computing]: HTTP status code 200 means the request succeeded.
+FACT [computing]: Git is a distributed version control system created by Linus Torvalds in 2005.
+FACT [computing]: Python was created by Guido van Rossum and first released in 1991.
+FACT [computing]: ASCII encodes 128 characters using 7 bits.
+FACT [computing]: UTF-8 is a variable-width encoding that uses one to four bytes per code point.
+FACT [computing]: The P versus NP problem asks whether every problem whose solution can be verified quickly can also be solved quickly.
+FACT [computing]: A GPU contains thousands of simple cores designed for highly parallel workloads.
+FACT [computing]: A neural network learns by adjusting weights to reduce a loss function, typically using gradient descent.
+FACT [computing]: Floating point numbers in the IEEE 754 standard cannot represent 0.1 exactly in binary.
+FACT [human-body]: The human heart has four chambers: two atria and two ventricles.
+FACT [human-body]: The largest organ of the human body is the skin.
+FACT [human-body]: The adult human body is about 60 percent water.
+FACT [human-body]: The human brain contains roughly 86 billion neurons.
+FACT [human-body]: The femur in the thigh is the longest and strongest bone in the human body.
+FACT [human-body]: Insulin is a hormone produced by the pancreas that regulates blood glucose.
+FACT [human-body]: The small intestine is where most nutrient absorption occurs.
+FACT [human-body]: Vitamin C deficiency causes scurvy.
+FACT [human-body]: Vitamin D can be synthesized in the skin on exposure to sunlight.
+FACT [language]: Mandarin Chinese has the most native speakers of any language.
+FACT [language]: English has 26 letters in its modern alphabet.
+FACT [language]: The Japanese writing system uses three scripts: hiragana, katakana, and kanji.
+FACT [language]: Spanish is the official language of more than 20 countries.
+FACT [language]: Latin is the ancestor of the Romance languages, including French, Spanish, Italian, Portuguese, and Romanian.
+FACT [language]: Hindi is written in the Devanagari script.
+FACT [language]: Arabic is written from right to left.
+FACT [arts]: Leonardo da Vinci painted the Mona Lisa in the early 16th century.
+FACT [arts]: William Shakespeare wrote Hamlet around the year 1600.
+FACT [arts]: Ludwig van Beethoven composed nine symphonies.
+FACT [arts]: Vincent van Gogh painted The Starry Night in 1889.
+FACT [arts]: Pablo Picasso co-founded the Cubist movement with Georges Braque.
+FACT [arts]: A standard piano has 88 keys.
+FACT [arts]: Haiku is a Japanese poetic form traditionally structured in 5, 7, and 5 syllables.
+FACT [economics]: Inflation is a sustained increase in the general price level of goods and services.
+FACT [economics]: Gross domestic product measures the total market value of final goods and services produced in a country in a period.
+FACT [economics]: Supply and demand determine price in a competitive market.
+FACT [economics]: Compound interest is interest calculated on both the initial principal and accumulated interest.
+FACT [economics]: A central bank controls monetary policy, including interest rates.
+FACT [economics]: Adam Smith published The Wealth of Nations in 1776.
+FACT [sports]: A football (soccer) match has two teams of eleven players each on the field.
+FACT [sports]: The modern Olympic Games were first held in Athens in 1896.
+FACT [sports]: A marathon is 42.195 kilometers long.
+FACT [sports]: A chess board has 64 squares.
+FACT [sports]: A cricket team has eleven players.
+FACT [sports]: The FIFA World Cup is held every four years.
+
+### SECTION: CONVERSATIONS
+### FORMAT: blocks separated by "<|end|>". Turns start with "User:" or "Assistant:".
+
+User: Hi, how are you?
+Assistant: I'm doing well, thanks for asking. How can I help you today?
+<|end|>
+User: Can you introduce yourself?
+Assistant: I'm an assistant that can answer questions, explain ideas, help with writing, and work through problems step by step. What would you like to do?
+<|end|>
+User: What is the capital of Australia?
+Assistant: The capital of Australia is Canberra, not Sydney or Melbourne.
+<|end|>
+User: Why is the sky blue?
+Assistant: Air molecules scatter short wavelengths of sunlight, such as blue, more strongly than long wavelengths like red. This is called Rayleigh scattering. Scattered blue light reaches your eyes from all directions, so the sky looks blue.
+User: Then why are sunsets red?
+Assistant: At sunset, sunlight passes through much more air before reaching you. Most of the blue light is scattered out of the direct beam, so the remaining light is richer in red and orange.
+<|end|>
+User: What is photosynthesis?
+Assistant: Photosynthesis is the process by which plants, algae, and some bacteria convert light energy, water, and carbon dioxide into glucose and oxygen.
+User: Where does it happen in a plant cell?
+Assistant: In chloroplasts, which contain the pigment chlorophyll that absorbs light.
+<|end|>
+User: How many bones are in the human body?
+Assistant: An adult human has 206 bones. Babies are born with more, around 270, and some fuse together as they grow.
+<|end|>
+User: What is the difference between weather and climate?
+Assistant: Weather is the state of the atmosphere over a short time, like today's rain or temperature. Climate is the average of weather over a long period, usually 30 years or more.
+<|end|>
+User: Explain what a prime number is.
+Assistant: A prime number is a natural number greater than 1 that has exactly two positive divisors: 1 and itself. Examples are 2, 3, 5, 7, and 11.
+User: Is 1 prime?
+Assistant: No. The number 1 has only one positive divisor, so it does not meet the definition.
+<|end|>
+User: What is 15 percent of 240?
+Assistant: 15 percent of 240 is 36. You can compute it as 0.15 x 240 = 36.
+<|end|>
+User: Solve 3x + 5 = 20.
+Assistant: Subtract 5 from both sides to get 3x = 15. Then divide by 3 to get x = 5.
+<|end|>
+User: What is the area of a circle with radius 3?
+Assistant: The area is pi x r^2 = pi x 9, which is about 28.27 square units.
+<|end|>
+User: What does Big O notation describe?
+Assistant: Big O notation describes an upper bound on how an algorithm's running time or memory use grows as the input size grows. For example, O(n) grows linearly and O(n^2) grows quadratically.
+User: What is the complexity of binary search?
+Assistant: O(log n), because each step halves the remaining search range. It requires a sorted array.
+<|end|>
+User: What is the difference between a list and a tuple in Python?
+Assistant: A list is mutable, so you can change its elements after creation. A tuple is immutable. Tuples can be used as dictionary keys if their elements are hashable, while lists cannot.
+<|end|>
+User: Write a Python function that checks whether a number is prime.
+Assistant: Here is a simple version:
+
+def is_prime(n):
+    if n < 2:
+        return False
+    if n % 2 == 0:
+        return n == 2
+    i = 3
+    while i * i <= n:
+        if n % i == 0:
+            return False
+        i += 2
+    return True
+
+It runs in O(sqrt(n)) time.
+<|end|>
+User: What is the difference between TCP and UDP?
+Assistant: TCP is connection-oriented and guarantees reliable, ordered delivery through acknowledgments and retransmission. UDP is connectionless and faster, but it does not guarantee delivery or order. TCP suits web pages and file transfer. UDP suits live video, games, and DNS queries.
+<|end|>
+User: What does git commit do?
+Assistant: It records a snapshot of your staged changes in the repository history with a message describing the change.
+User: And git push?
+Assistant: It uploads your local commits to a remote repository, such as one hosted on GitHub.
+<|end|>
+User: What is machine learning?
+Assistant: Machine learning is a field where systems learn patterns from data instead of following only hand-written rules. A model is trained on examples and then makes predictions on new inputs.
+<|end|>
+User: What is overfitting?
+Assistant: Overfitting happens when a model learns noise and details specific to its training data, so it performs well on training data but poorly on new data. Remedies include more data, regularization, early stopping, and simpler models.
+<|end|>
+User: I feel stressed about exams. Any advice?
+Assistant: That is a common feeling. A few things that help: break the material into small daily goals, test yourself instead of rereading, sleep enough, and take short breaks. If the stress feels overwhelming, talking to a teacher, counselor, or friend can help too.
+<|end|>
+User: How can I sleep better?
+Assistant: Keep a regular sleep schedule, avoid caffeine late in the day, dim screens before bed, keep your room cool and dark, and avoid heavy meals right before sleep. If problems last for weeks, consider speaking with a doctor.
+<|end|>
+User: Can you give me a quick dinner idea?
+Assistant: Try vegetable fried rice. Cook rice, stir-fry onion, carrot, peas, and garlic in oil, add the rice and soy sauce, then scramble in an egg. It takes about 15 minutes.
+<|end|>
+User: How do I boil an egg?
+Assistant: Place the egg in boiling water. Cook for 6 to 7 minutes for a soft yolk or 10 to 12 minutes for a hard yolk. Then cool it in cold water to make peeling easier.
+<|end|>
+User: Who wrote Hamlet?
+Assistant: William Shakespeare wrote Hamlet, around the year 1600.
+<|end|>
+User: When did World War II end?
+Assistant: It ended in 1945. Germany surrendered in May, and Japan surrendered in August and formally in September.
+<|end|>
+User: What is inflation?
+Assistant: Inflation is a sustained rise in the general price level, which means each unit of money buys less over time.
+<|end|>
+User: What is compound interest?
+Assistant: Compound interest is interest earned on both the original amount and the interest already added. With principal P, rate r, and n years, the balance is P x (1 + r)^n for annual compounding.
+User: What is 1000 at 10 percent for 2 years?
+Assistant: 1000 x 1.1^2 = 1210.
+<|end|>
+User: Translate "thank you" into Spanish, French, and German.
+Assistant: Spanish: gracias. French: merci. German: danke.
+<|end|>
+User: Can you correct this sentence: "She don't like apples."
+Assistant: The corrected sentence is: "She doesn't like apples." The verb "does" is used with third-person singular subjects.
+<|end|>
+User: What is the difference between "affect" and "effect"?
+Assistant: "Affect" is usually a verb meaning to influence. "Effect" is usually a noun meaning a result. Example: The weather can affect your mood, and the effect can last all day.
+<|end|>
+User: Give me a one-sentence summary of the water cycle.
+Assistant: Water evaporates from surfaces, condenses into clouds, falls as precipitation, and returns to oceans, rivers, and ground to repeat the cycle.
+<|end|>
+User: Do you know the exact weather in my city right now?
+Assistant: I can't see live data, so I can't tell you the current weather. A weather app or website will have an accurate forecast.
+<|end|>
+User: Are you sure that Venus is the hottest planet?
+Assistant: Yes. Venus is hotter than Mercury even though Mercury is closer to the Sun, because Venus has a dense carbon dioxide atmosphere that traps heat. Its surface is about 465 degrees Celsius.
+<|end|>
+User: What is the speed of light?
+Assistant: In a vacuum, light travels at exactly 299,792,458 meters per second, which is about 300,000 kilometers per second.
+<|end|>
+User: How long does it take light from the Sun to reach Earth?
+Assistant: About 8 minutes and 20 seconds.
+<|end|>
+User: What is DNA?
+Assistant: DNA, or deoxyribonucleic acid, is the molecule that carries genetic information in most living things. It is a double helix built from four bases: adenine, thymine, cytosine, and guanine.
+<|end|>
+User: What is the largest ocean?
+Assistant: The Pacific Ocean. It is the largest and deepest ocean on Earth.
+<|end|>
+User: Can you help me plan a study schedule for 3 subjects over a week?
+Assistant: Yes. One approach is to give each subject a 90-minute block most days and rotate the order. For example: Monday math, physics, chemistry. Tuesday physics, chemistry, math. Wednesday chemistry, math, physics. Repeat, and use Saturday for a review of weak topics and Sunday for rest or a light recap. Tell me your exam dates and I can tailor it.
+<|end|>
+User: Thanks, that helps.
+Assistant: You're welcome. Let me know if you want to go deeper on anything.
+<|end|>
+User: Goodbye!
+Assistant: Goodbye, and take care.
+<|end|>
+
+
+### SECTION: FACTS (GENERATED, COMPUTED OR TABLE-DRIVEN)
+
+FACT [geography]: The capital of Afghanistan is Kabul.
+FACT [geography]: The capital of Argentina is Buenos Aires.
+FACT [geography]: The capital of Austria is Vienna.
+FACT [geography]: The capital of Bangladesh is Dhaka.
+FACT [geography]: The capital of Belgium is Brussels.
+FACT [geography]: The capital of Bolivia is Sucre.
+FACT [geography]: The capital of Bulgaria is Sofia.
+FACT [geography]: The capital of Cambodia is Phnom Penh.
+FACT [geography]: The capital of Chile is Santiago.
+FACT [geography]: The capital of China is Beijing.
+FACT [geography]: The capital of Colombia is Bogota.
+FACT [geography]: The capital of Croatia is Zagreb.
+FACT [geography]: The capital of Cuba is Havana.
+FACT [geography]: The capital of Czech Republic is Prague.
+FACT [geography]: The capital of Denmark is Copenhagen.
+FACT [geography]: The capital of Ecuador is Quito.
+FACT [geography]: The capital of Ethiopia is Addis Ababa.
+FACT [geography]: The capital of Finland is Helsinki.
+FACT [geography]: The capital of France is Paris.
+FACT [geography]: The capital of Germany is Berlin.
+FACT [geography]: The capital of Ghana is Accra.
+FACT [geography]: The capital of Greece is Athens.
+FACT [geography]: The capital of Hungary is Budapest.
+FACT [geography]: The capital of Iceland is Reykjavik.
+FACT [geography]: The capital of Indonesia is Jakarta.
+FACT [geography]: The capital of Iran is Tehran.
+FACT [geography]: The capital of Iraq is Baghdad.
+FACT [geography]: The capital of Ireland is Dublin.
+FACT [geography]: The capital of Israel is Jerusalem.
+FACT [geography]: The capital of Italy is Rome.
+FACT [geography]: The capital of Jamaica is Kingston.
+FACT [geography]: The capital of Jordan is Amman.
+FACT [geography]: The capital of Kazakhstan is Astana.
+FACT [geography]: The capital of Laos is Vientiane.
+FACT [geography]: The capital of Lebanon is Beirut.
+FACT [geography]: The capital of Malaysia is Kuala Lumpur.
+FACT [geography]: The capital of Mexico is Mexico City.
+FACT [geography]: The capital of Mongolia is Ulaanbaatar.
+FACT [geography]: The capital of Morocco is Rabat.
+FACT [geography]: The capital of Nepal is Kathmandu.
+FACT [geography]: The capital of Netherlands is Amsterdam.
+FACT [geography]: The capital of New Zealand is Wellington.
+FACT [geography]: The capital of Nigeria is Abuja.
+FACT [geography]: The capital of Norway is Oslo.
+FACT [geography]: The capital of Pakistan is Islamabad.
+FACT [geography]: The capital of Peru is Lima.
+FACT [geography]: The capital of Philippines is Manila.
+FACT [geography]: The capital of Poland is Warsaw.
+FACT [geography]: The capital of Portugal is Lisbon.
+FACT [geography]: The capital of Romania is Bucharest.
+FACT [geography]: The capital of Russia is Moscow.
+FACT [geography]: The capital of Saudi Arabia is Riyadh.
+FACT [geography]: The capital of Serbia is Belgrade.
+FACT [geography]: The capital of Singapore is Singapore.
+FACT [geography]: The capital of Slovakia is Bratislava.
+FACT [geography]: The capital of Somalia is Mogadishu.
+FACT [geography]: The capital of South Africa is Pretoria.
+FACT [geography]: The capital of Spain is Madrid.
+FACT [geography]: The capital of Sri Lanka is Sri Jayawardenepura Kotte.
+FACT [geography]: The capital of Sudan is Khartoum.
+FACT [geography]: The capital of Sweden is Stockholm.
+FACT [geography]: The capital of Switzerland is Bern.
+FACT [geography]: The capital of Syria is Damascus.
+FACT [geography]: The capital of Tanzania is Dodoma.
+FACT [geography]: The capital of Thailand is Bangkok.
+FACT [geography]: The capital of Tunisia is Tunis.
+FACT [geography]: The capital of Ukraine is Kyiv.
+FACT [geography]: The capital of United Kingdom is London.
+FACT [geography]: The capital of United States is Washington, D.C..
+FACT [geography]: The capital of Uruguay is Montevideo.
+FACT [geography]: The capital of Venezuela is Caracas.
+FACT [geography]: The capital of Vietnam is Hanoi.
+FACT [geography]: The capital of Zimbabwe is Harare.
+FACT [geography]: The capital of Algeria is Algiers.
+FACT [geography]: The capital of Angola is Luanda.
+FACT [geography]: The capital of Belarus is Minsk.
+FACT [geography]: The capital of Bhutan is Thimphu.
+FACT [geography]: The capital of Botswana is Gaborone.
+FACT [geography]: The capital of Estonia is Tallinn.
+FACT [geography]: The capital of Latvia is Riga.
+FACT [geography]: The capital of Lithuania is Vilnius.
+FACT [geography]: The capital of Libya is Tripoli.
+FACT [geography]: The capital of Madagascar is Antananarivo.
+FACT [geography]: The capital of Myanmar is Naypyidaw.
+FACT [geography]: The capital of Namibia is Windhoek.
+FACT [geography]: The capital of Panama is Panama City.
+FACT [geography]: The capital of Paraguay is Asuncion.
+FACT [geography]: The capital of Qatar is Doha.
+FACT [geography]: The capital of Senegal is Dakar.
+FACT [geography]: The capital of Slovenia is Ljubljana.
+FACT [geography]: The capital of Uganda is Kampala.
+FACT [geography]: The capital of Uzbekistan is Tashkent.
+FACT [geography]: The capital of Yemen is Sanaa.
+FACT [geography]: The capital of Zambia is Lusaka.
+FACT [chemistry]: Hydrogen has atomic number 1 and chemical symbol H.
+FACT [chemistry]: Helium has atomic number 2 and chemical symbol He.
+FACT [chemistry]: Lithium has atomic number 3 and chemical symbol Li.
+FACT [chemistry]: Beryllium has atomic number 4 and chemical symbol Be.
+FACT [chemistry]: Boron has atomic number 5 and chemical symbol B.
+FACT [chemistry]: Carbon has atomic number 6 and chemical symbol C.
+FACT [chemistry]: Nitrogen has atomic number 7 and chemical symbol N.
+FACT [chemistry]: Oxygen has atomic number 8 and chemical symbol O.
+FACT [chemistry]: Fluorine has atomic number 9 and chemical symbol F.
+FACT [chemistry]: Neon has atomic number 10 and chemical symbol Ne.
+FACT [chemistry]: Sodium has atomic number 11 and chemical symbol Na.
+FACT [chemistry]: Magnesium has atomic number 12 and chemical symbol Mg.
+FACT [chemistry]: Aluminium has atomic number 13 and chemical symbol Al.
+FACT [chemistry]: Silicon has atomic number 14 and chemical symbol Si.
+FACT [chemistry]: Phosphorus has atomic number 15 and chemical symbol P.
+FACT [chemistry]: Sulfur has atomic number 16 and chemical symbol S.
+FACT [chemistry]: Chlorine has atomic number 17 and chemical symbol Cl.
+FACT [chemistry]: Argon has atomic number 18 and chemical symbol Ar.
+FACT [chemistry]: Potassium has atomic number 19 and chemical symbol K.
+FACT [chemistry]: Calcium has atomic number 20 and chemical symbol Ca.
+FACT [chemistry]: Scandium has atomic number 21 and chemical symbol Sc.
+FACT [chemistry]: Titanium has atomic number 22 and chemical symbol Ti.
+FACT [chemistry]: Vanadium has atomic number 23 and chemical symbol V.
+FACT [chemistry]: Chromium has atomic number 24 and chemical symbol Cr.
+FACT [chemistry]: Manganese has atomic number 25 and chemical symbol Mn.
+FACT [chemistry]: Iron has atomic number 26 and chemical symbol Fe.
+FACT [chemistry]: Cobalt has atomic number 27 and chemical symbol Co.
+FACT [chemistry]: Nickel has atomic number 28 and chemical symbol Ni.
+FACT [chemistry]: Copper has atomic number 29 and chemical symbol Cu.
+FACT [chemistry]: Zinc has atomic number 30 and chemical symbol Zn.
+FACT [chemistry]: Gallium has atomic number 31 and chemical symbol Ga.
+FACT [chemistry]: Germanium has atomic number 32 and chemical symbol Ge.
+FACT [chemistry]: Arsenic has atomic number 33 and chemical symbol As.
+FACT [chemistry]: Selenium has atomic number 34 and chemical symbol Se.
+FACT [chemistry]: Bromine has atomic number 35 and chemical symbol Br.
+FACT [chemistry]: Krypton has atomic number 36 and chemical symbol Kr.
+FACT [chemistry]: Rubidium has atomic number 37 and chemical symbol Rb.
+FACT [chemistry]: Strontium has atomic number 38 and chemical symbol Sr.
+FACT [chemistry]: Yttrium has atomic number 39 and chemical symbol Y.
+FACT [chemistry]: Zirconium has atomic number 40 and chemical symbol Zr.
+FACT [chemistry]: Niobium has atomic number 41 and chemical symbol Nb.
+FACT [chemistry]: Molybdenum has atomic number 42 and chemical symbol Mo.
+FACT [chemistry]: Technetium has atomic number 43 and chemical symbol Tc.
+FACT [chemistry]: Ruthenium has atomic number 44 and chemical symbol Ru.
+FACT [chemistry]: Rhodium has atomic number 45 and chemical symbol Rh.
+FACT [chemistry]: Palladium has atomic number 46 and chemical symbol Pd.
+FACT [chemistry]: Silver has atomic number 47 and chemical symbol Ag.
+FACT [chemistry]: Cadmium has atomic number 48 and chemical symbol Cd.
+FACT [chemistry]: Indium has atomic number 49 and chemical symbol In.
+FACT [chemistry]: Tin has atomic number 50 and chemical symbol Sn.
+FACT [chemistry]: Antimony has atomic number 51 and chemical symbol Sb.
+FACT [chemistry]: Tellurium has atomic number 52 and chemical symbol Te.
+FACT [chemistry]: Iodine has atomic number 53 and chemical symbol I.
+FACT [chemistry]: Xenon has atomic number 54 and chemical symbol Xe.
+FACT [arithmetic]: 1 x 1 = 1.
+FACT [arithmetic]: 1 x 2 = 2.
+FACT [arithmetic]: 1 x 3 = 3.
+FACT [arithmetic]: 1 x 4 = 4.
+FACT [arithmetic]: 1 x 5 = 5.
+FACT [arithmetic]: 1 x 6 = 6.
+FACT [arithmetic]: 1 x 7 = 7.
+FACT [arithmetic]: 1 x 8 = 8.
+FACT [arithmetic]: 1 x 9 = 9.
+FACT [arithmetic]: 1 x 10 = 10.
+FACT [arithmetic]: 1 x 11 = 11.
+FACT [arithmetic]: 1 x 12 = 12.
+FACT [arithmetic]: 1 x 13 = 13.
+FACT [arithmetic]: 1 x 14 = 14.
+FACT [arithmetic]: 1 x 15 = 15.
+FACT [arithmetic]: 1 x 16 = 16.
+FACT [arithmetic]: 1 x 17 = 17.
+FACT [arithmetic]: 1 x 18 = 18.
+FACT [arithmetic]: 1 x 19 = 19.
+FACT [arithmetic]: 1 x 20 = 20.
+FACT [arithmetic]: 2 x 2 = 4.
+FACT [arithmetic]: 2 x 3 = 6.
+FACT [arithmetic]: 2 x 4 = 8.
+FACT [arithmetic]: 2 x 5 = 10.
+FACT [arithmetic]: 2 x 6 = 12.
+FACT [arithmetic]: 2 x 7 = 14.
+FACT [arithmetic]: 2 x 8 = 16.
+FACT [arithmetic]: 2 x 9 = 18.
+FACT [arithmetic]: 2 x 10 = 20.
+FACT [arithmetic]: 2 x 11 = 22.
+FACT [arithmetic]: 2 x 12 = 24.
+FACT [arithmetic]: 2 x 13 = 26.
+FACT [arithmetic]: 2 x 14 = 28.
+FACT [arithmetic]: 2 x 15 = 30.
+FACT [arithmetic]: 2 x 16 = 32.
+FACT [arithmetic]: 2 x 17 = 34.
+FACT [arithmetic]: 2 x 18 = 36.
+FACT [arithmetic]: 2 x 19 = 38.
+FACT [arithmetic]: 2 x 20 = 40.
+FACT [arithmetic]: 3 x 3 = 9.
+FACT [arithmetic]: 3 x 4 = 12.
+FACT [arithmetic]: 3 x 5 = 15.
+FACT [arithmetic]: 3 x 6 = 18.
+FACT [arithmetic]: 3 x 7 = 21.
+FACT [arithmetic]: 3 x 8 = 24.
+FACT [arithmetic]: 3 x 9 = 27.
+FACT [arithmetic]: 3 x 10 = 30.
+FACT [arithmetic]: 3 x 11 = 33.
+FACT [arithmetic]: 3 x 12 = 36.
+FACT [arithmetic]: 3 x 13 = 39.
+FACT [arithmetic]: 3 x 14 = 42.
+FACT [arithmetic]: 3 x 15 = 45.
+FACT [arithmetic]: 3 x 16 = 48.
+FACT [arithmetic]: 3 x 17 = 51.
+FACT [arithmetic]: 3 x 18 = 54.
+FACT [arithmetic]: 3 x 19 = 57.
+FACT [arithmetic]: 3 x 20 = 60.
+FACT [arithmetic]: 4 x 4 = 16.
+FACT [arithmetic]: 4 x 5 = 20.
+FACT [arithmetic]: 4 x 6 = 24.
+FACT [arithmetic]: 4 x 7 = 28.
+FACT [arithmetic]: 4 x 8 = 32.
+FACT [arithmetic]: 4 x 9 = 36.
+FACT [arithmetic]: 4 x 10 = 40.
+FACT [arithmetic]: 4 x 11 = 44.
+FACT [arithmetic]: 4 x 12 = 48.
+FACT [arithmetic]: 4 x 13 = 52.
+FACT [arithmetic]: 4 x 14 = 56.
+FACT [arithmetic]: 4 x 15 = 60.
+FACT [arithmetic]: 4 x 16 = 64.
+FACT [arithmetic]: 4 x 17 = 68.
+FACT [arithmetic]: 4 x 18 = 72.
+FACT [arithmetic]: 4 x 19 = 76.
+FACT [arithmetic]: 4 x 20 = 80.
+FACT [arithmetic]: 5 x 5 = 25.
+FACT [arithmetic]: 5 x 6 = 30.
+FACT [arithmetic]: 5 x 7 = 35.
+FACT [arithmetic]: 5 x 8 = 40.
+FACT [arithmetic]: 5 x 9 = 45.
+FACT [arithmetic]: 5 x 10 = 50.
+FACT [arithmetic]: 5 x 11 = 55.
+FACT [arithmetic]: 5 x 12 = 60.
+FACT [arithmetic]: 5 x 13 = 65.
+FACT [arithmetic]: 5 x 14 = 70.
+FACT [arithmetic]: 5 x 15 = 75.
+FACT [arithmetic]: 5 x 16 = 80.
+FACT [arithmetic]: 5 x 17 = 85.
+FACT [arithmetic]: 5 x 18 = 90.
+FACT [arithmetic]: 5 x 19 = 95.
+FACT [arithmetic]: 5 x 20 = 100.
+FACT [arithmetic]: 6 x 6 = 36.
+FACT [arithmetic]: 6 x 7 = 42.
+FACT [arithmetic]: 6 x 8 = 48.
+FACT [arithmetic]: 6 x 9 = 54.
+FACT [arithmetic]: 6 x 10 = 60.
+FACT [arithmetic]: 6 x 11 = 66.
+FACT [arithmetic]: 6 x 12 = 72.
+FACT [arithmetic]: 6 x 13 = 78.
+FACT [arithmetic]: 6 x 14 = 84.
+FACT [arithmetic]: 6 x 15 = 90.
+FACT [arithmetic]: 6 x 16 = 96.
+FACT [arithmetic]: 6 x 17 = 102.
+FACT [arithmetic]: 6 x 18 = 108.
+FACT [arithmetic]: 6 x 19 = 114.
+FACT [arithmetic]: 6 x 20 = 120.
+FACT [arithmetic]: 7 x 7 = 49.
+FACT [arithmetic]: 7 x 8 = 56.
+FACT [arithmetic]: 7 x 9 = 63.
+FACT [arithmetic]: 7 x 10 = 70.
+FACT [arithmetic]: 7 x 11 = 77.
+FACT [arithmetic]: 7 x 12 = 84.
+FACT [arithmetic]: 7 x 13 = 91.
+FACT [arithmetic]: 7 x 14 = 98.
+FACT [arithmetic]: 7 x 15 = 105.
+FACT [arithmetic]: 7 x 16 = 112.
+FACT [arithmetic]: 7 x 17 = 119.
+FACT [arithmetic]: 7 x 18 = 126.
+FACT [arithmetic]: 7 x 19 = 133.
+FACT [arithmetic]: 7 x 20 = 140.
+FACT [arithmetic]: 8 x 8 = 64.
+FACT [arithmetic]: 8 x 9 = 72.
+FACT [arithmetic]: 8 x 10 = 80.
+FACT [arithmetic]: 8 x 11 = 88.
+FACT [arithmetic]: 8 x 12 = 96.
+FACT [arithmetic]: 8 x 13 = 104.
+FACT [arithmetic]: 8 x 14 = 112.
+FACT [arithmetic]: 8 x 15 = 120.
+FACT [arithmetic]: 8 x 16 = 128.
+FACT [arithmetic]: 8 x 17 = 136.
+FACT [arithmetic]: 8 x 18 = 144.
+FACT [arithmetic]: 8 x 19 = 152.
+FACT [arithmetic]: 8 x 20 = 160.
+FACT [arithmetic]: 9 x 9 = 81.
+FACT [arithmetic]: 9 x 10 = 90.
+FACT [arithmetic]: 9 x 11 = 99.
+FACT [arithmetic]: 9 x 12 = 108.
+FACT [arithmetic]: 9 x 13 = 117.
+FACT [arithmetic]: 9 x 14 = 126.
+FACT [arithmetic]: 9 x 15 = 135.
+FACT [arithmetic]: 9 x 16 = 144.
+FACT [arithmetic]: 9 x 17 = 153.
+FACT [arithmetic]: 9 x 18 = 162.
+FACT [arithmetic]: 9 x 19 = 171.
+FACT [arithmetic]: 9 x 20 = 180.
+FACT [arithmetic]: 10 x 10 = 100.
+FACT [arithmetic]: 10 x 11 = 110.
+FACT [arithmetic]: 10 x 12 = 120.
+FACT [arithmetic]: 10 x 13 = 130.
+FACT [arithmetic]: 10 x 14 = 140.
+FACT [arithmetic]: 10 x 15 = 150.
+FACT [arithmetic]: 10 x 16 = 160.
+FACT [arithmetic]: 10 x 17 = 170.
+FACT [arithmetic]: 10 x 18 = 180.
+FACT [arithmetic]: 10 x 19 = 190.
+FACT [arithmetic]: 10 x 20 = 200.
+FACT [arithmetic]: 11 x 11 = 121.
+FACT [arithmetic]: 11 x 12 = 132.
+FACT [arithmetic]: 11 x 13 = 143.
+FACT [arithmetic]: 11 x 14 = 154.
+FACT [arithmetic]: 11 x 15 = 165.
+FACT [arithmetic]: 11 x 16 = 176.
+FACT [arithmetic]: 11 x 17 = 187.
+FACT [arithmetic]: 11 x 18 = 198.
+FACT [arithmetic]: 11 x 19 = 209.
+FACT [arithmetic]: 11 x 20 = 220.
+FACT [arithmetic]: 12 x 12 = 144.
+FACT [arithmetic]: 12 x 13 = 156.
+FACT [arithmetic]: 12 x 14 = 168.
+FACT [arithmetic]: 12 x 15 = 180.
+FACT [arithmetic]: 12 x 16 = 192.
+FACT [arithmetic]: 12 x 17 = 204.
+FACT [arithmetic]: 12 x 18 = 216.
+FACT [arithmetic]: 12 x 19 = 228.
+FACT [arithmetic]: 12 x 20 = 240.
+FACT [arithmetic]: 13 x 13 = 169.
+FACT [arithmetic]: 13 x 14 = 182.
+FACT [arithmetic]: 13 x 15 = 195.
+FACT [arithmetic]: 13 x 16 = 208.
+FACT [arithmetic]: 13 x 17 = 221.
+FACT [arithmetic]: 13 x 18 = 234.
+FACT [arithmetic]: 13 x 19 = 247.
+FACT [arithmetic]: 13 x 20 = 260.
+FACT [arithmetic]: 14 x 14 = 196.
+FACT [arithmetic]: 14 x 15 = 210.
+FACT [arithmetic]: 14 x 16 = 224.
+FACT [arithmetic]: 14 x 17 = 238.
+FACT [arithmetic]: 14 x 18 = 252.
+FACT [arithmetic]: 14 x 19 = 266.
+FACT [arithmetic]: 14 x 20 = 280.
+FACT [arithmetic]: 15 x 15 = 225.
+FACT [arithmetic]: 15 x 16 = 240.
+FACT [arithmetic]: 15 x 17 = 255.
+FACT [arithmetic]: 15 x 18 = 270.
+FACT [arithmetic]: 15 x 19 = 285.
+FACT [arithmetic]: 15 x 20 = 300.
+FACT [arithmetic]: 16 x 16 = 256.
+FACT [arithmetic]: 16 x 17 = 272.
+FACT [arithmetic]: 16 x 18 = 288.
+FACT [arithmetic]: 16 x 19 = 304.
+FACT [arithmetic]: 16 x 20 = 320.
+FACT [arithmetic]: 17 x 17 = 289.
+FACT [arithmetic]: 17 x 18 = 306.
+FACT [arithmetic]: 17 x 19 = 323.
+FACT [arithmetic]: 17 x 20 = 340.
+FACT [arithmetic]: 18 x 18 = 324.
+FACT [arithmetic]: 18 x 19 = 342.
+FACT [arithmetic]: 18 x 20 = 360.
+FACT [arithmetic]: 19 x 19 = 361.
+FACT [arithmetic]: 19 x 20 = 380.
+FACT [arithmetic]: 20 x 20 = 400.
+FACT [arithmetic]: 1 + 1 = 2.
+FACT [arithmetic]: 1 + 4 = 5.
+FACT [arithmetic]: 1 + 7 = 8.
+FACT [arithmetic]: 1 + 10 = 11.
+FACT [arithmetic]: 1 + 13 = 14.
+FACT [arithmetic]: 1 + 16 = 17.
+FACT [arithmetic]: 1 + 19 = 20.
+FACT [arithmetic]: 1 + 22 = 23.
+FACT [arithmetic]: 1 + 25 = 26.
+FACT [arithmetic]: 1 + 28 = 29.
+FACT [arithmetic]: 2 + 2 = 4.
+FACT [arithmetic]: 2 + 5 = 7.
+FACT [arithmetic]: 2 + 8 = 10.
+FACT [arithmetic]: 2 + 11 = 13.
+FACT [arithmetic]: 2 + 14 = 16.
+FACT [arithmetic]: 2 + 17 = 19.
+FACT [arithmetic]: 2 + 20 = 22.
+FACT [arithmetic]: 2 + 23 = 25.
+FACT [arithmetic]: 2 + 26 = 28.
+FACT [arithmetic]: 2 + 29 = 31.
+FACT [arithmetic]: 3 + 3 = 6.
+FACT [arithmetic]: 3 + 6 = 9.
+FACT [arithmetic]: 3 + 9 = 12.
+FACT [arithmetic]: 3 + 12 = 15.
+FACT [arithmetic]: 3 + 15 = 18.
+FACT [arithmetic]: 3 + 18 = 21.
+FACT [arithmetic]: 3 + 21 = 24.
+FACT [arithmetic]: 3 + 24 = 27.
+FACT [arithmetic]: 3 + 27 = 30.
+FACT [arithmetic]: 3 + 30 = 33.
+FACT [arithmetic]: 4 + 4 = 8.
+FACT [arithmetic]: 4 + 7 = 11.
+FACT [arithmetic]: 4 + 10 = 14.
+FACT [arithmetic]: 4 + 13 = 17.
+FACT [arithmetic]: 4 + 16 = 20.
+FACT [arithmetic]: 4 + 19 = 23.
+FACT [arithmetic]: 4 + 22 = 26.
+FACT [arithmetic]: 4 + 25 = 29.
+FACT [arithmetic]: 4 + 28 = 32.
+FACT [arithmetic]: 5 + 5 = 10.
+FACT [arithmetic]: 5 + 8 = 13.
+FACT [arithmetic]: 5 + 11 = 16.
+FACT [arithmetic]: 5 + 14 = 19.
+FACT [arithmetic]: 5 + 17 = 22.
+FACT [arithmetic]: 5 + 20 = 25.
+FACT [arithmetic]: 5 + 23 = 28.
+FACT [arithmetic]: 5 + 26 = 31.
+FACT [arithmetic]: 5 + 29 = 34.
+FACT [arithmetic]: 6 + 6 = 12.
+FACT [arithmetic]: 6 + 9 = 15.
+FACT [arithmetic]: 6 + 12 = 18.
+FACT [arithmetic]: 6 + 15 = 21.
+FACT [arithmetic]: 6 + 18 = 24.
+FACT [arithmetic]: 6 + 21 = 27.
+FACT [arithmetic]: 6 + 24 = 30.
+FACT [arithmetic]: 6 + 27 = 33.
+FACT [arithmetic]: 6 + 30 = 36.
+FACT [arithmetic]: 7 + 7 = 14.
+FACT [arithmetic]: 7 + 10 = 17.
+FACT [arithmetic]: 7 + 13 = 20.
+FACT [arithmetic]: 7 + 16 = 23.
+FACT [arithmetic]: 7 + 19 = 26.
+FACT [arithmetic]: 7 + 22 = 29.
+FACT [arithmetic]: 7 + 25 = 32.
+FACT [arithmetic]: 7 + 28 = 35.
+FACT [arithmetic]: 8 + 8 = 16.
+FACT [arithmetic]: 8 + 11 = 19.
+FACT [arithmetic]: 8 + 14 = 22.
+FACT [arithmetic]: 8 + 17 = 25.
+FACT [arithmetic]: 8 + 20 = 28.
+FACT [arithmetic]: 8 + 23 = 31.
+FACT [arithmetic]: 8 + 26 = 34.
+FACT [arithmetic]: 8 + 29 = 37.
+FACT [arithmetic]: 9 + 9 = 18.
+FACT [arithmetic]: 9 + 12 = 21.
+FACT [arithmetic]: 9 + 15 = 24.
+FACT [arithmetic]: 9 + 18 = 27.
+FACT [arithmetic]: 9 + 21 = 30.
+FACT [arithmetic]: 9 + 24 = 33.
+FACT [arithmetic]: 9 + 27 = 36.
+FACT [arithmetic]: 9 + 30 = 39.
+FACT [arithmetic]: 10 + 10 = 20.
+FACT [arithmetic]: 10 + 13 = 23.
+FACT [arithmetic]: 10 + 16 = 26.
+FACT [arithmetic]: 10 + 19 = 29.
+FACT [arithmetic]: 10 + 22 = 32.
+FACT [arithmetic]: 10 + 25 = 35.
+FACT [arithmetic]: 10 + 28 = 38.
+FACT [arithmetic]: 11 + 11 = 22.
+FACT [arithmetic]: 11 + 14 = 25.
+FACT [arithmetic]: 11 + 17 = 28.
+FACT [arithmetic]: 11 + 20 = 31.
+FACT [arithmetic]: 11 + 23 = 34.
+FACT [arithmetic]: 11 + 26 = 37.
+FACT [arithmetic]: 11 + 29 = 40.
+FACT [arithmetic]: 12 + 12 = 24.
+FACT [arithmetic]: 12 + 15 = 27.
+FACT [arithmetic]: 12 + 18 = 30.
+FACT [arithmetic]: 12 + 21 = 33.
+FACT [arithmetic]: 12 + 24 = 36.
+FACT [arithmetic]: 12 + 27 = 39.
+FACT [arithmetic]: 12 + 30 = 42.
+FACT [arithmetic]: 13 + 13 = 26.
+FACT [arithmetic]: 13 + 16 = 29.
+FACT [arithmetic]: 13 + 19 = 32.
+FACT [arithmetic]: 13 + 22 = 35.
+FACT [arithmetic]: 13 + 25 = 38.
+FACT [arithmetic]: 13 + 28 = 41.
+FACT [arithmetic]: 14 + 14 = 28.
+FACT [arithmetic]: 14 + 17 = 31.
+FACT [arithmetic]: 14 + 20 = 34.
+FACT [arithmetic]: 14 + 23 = 37.
+FACT [arithmetic]: 14 + 26 = 40.
+FACT [arithmetic]: 14 + 29 = 43.
+FACT [arithmetic]: 15 + 15 = 30.
+FACT [arithmetic]: 15 + 18 = 33.
+FACT [arithmetic]: 15 + 21 = 36.
+FACT [arithmetic]: 15 + 24 = 39.
+FACT [arithmetic]: 15 + 27 = 42.
+FACT [arithmetic]: 15 + 30 = 45.
+FACT [arithmetic]: 16 + 16 = 32.
+FACT [arithmetic]: 16 + 19 = 35.
+FACT [arithmetic]: 16 + 22 = 38.
+FACT [arithmetic]: 16 + 25 = 41.
+FACT [arithmetic]: 16 + 28 = 44.
+FACT [arithmetic]: 17 + 17 = 34.
+FACT [arithmetic]: 17 + 20 = 37.
+FACT [arithmetic]: 17 + 23 = 40.
+FACT [arithmetic]: 17 + 26 = 43.
+FACT [arithmetic]: 17 + 29 = 46.
+FACT [arithmetic]: 18 + 18 = 36.
+FACT [arithmetic]: 18 + 21 = 39.
+FACT [arithmetic]: 18 + 24 = 42.
+FACT [arithmetic]: 18 + 27 = 45.
+FACT [arithmetic]: 18 + 30 = 48.
+FACT [arithmetic]: 19 + 19 = 38.
+FACT [arithmetic]: 19 + 22 = 41.
+FACT [arithmetic]: 19 + 25 = 44.
+FACT [arithmetic]: 19 + 28 = 47.
+FACT [arithmetic]: 20 + 20 = 40.
+FACT [arithmetic]: 20 + 23 = 43.
+FACT [arithmetic]: 20 + 26 = 46.
+FACT [arithmetic]: 20 + 29 = 49.
+FACT [arithmetic]: 21 + 21 = 42.
+FACT [arithmetic]: 21 + 24 = 45.
+FACT [arithmetic]: 21 + 27 = 48.
+FACT [arithmetic]: 21 + 30 = 51.
+FACT [arithmetic]: 22 + 22 = 44.
+FACT [arithmetic]: 22 + 25 = 47.
+FACT [arithmetic]: 22 + 28 = 50.
+FACT [arithmetic]: 23 + 23 = 46.
+FACT [arithmetic]: 23 + 26 = 49.
+FACT [arithmetic]: 23 + 29 = 52.
+FACT [arithmetic]: 24 + 24 = 48.
+FACT [arithmetic]: 24 + 27 = 51.
+FACT [arithmetic]: 24 + 30 = 54.
+FACT [arithmetic]: 25 + 25 = 50.
+FACT [arithmetic]: 25 + 28 = 53.
+FACT [arithmetic]: 26 + 26 = 52.
+FACT [arithmetic]: 26 + 29 = 55.
+FACT [arithmetic]: 27 + 27 = 54.
+FACT [arithmetic]: 27 + 30 = 57.
+FACT [arithmetic]: 28 + 28 = 56.
+FACT [arithmetic]: 29 + 29 = 58.
+FACT [arithmetic]: 30 + 30 = 60.
+FACT [arithmetic]: 1 squared is 1 and 1 cubed is 1.
+FACT [arithmetic]: The square root of 1 is 1.
+FACT [arithmetic]: 2 squared is 4 and 2 cubed is 8.
+FACT [arithmetic]: The square root of 4 is 2.
+FACT [arithmetic]: 3 squared is 9 and 3 cubed is 27.
+FACT [arithmetic]: The square root of 9 is 3.
+FACT [arithmetic]: 4 squared is 16 and 4 cubed is 64.
+FACT [arithmetic]: The square root of 16 is 4.
+FACT [arithmetic]: 5 squared is 25 and 5 cubed is 125.
+FACT [arithmetic]: The square root of 25 is 5.
+FACT [arithmetic]: 6 squared is 36 and 6 cubed is 216.
+FACT [arithmetic]: The square root of 36 is 6.
+FACT [arithmetic]: 7 squared is 49 and 7 cubed is 343.
+FACT [arithmetic]: The square root of 49 is 7.
+FACT [arithmetic]: 8 squared is 64 and 8 cubed is 512.
+FACT [arithmetic]: The square root of 64 is 8.
+FACT [arithmetic]: 9 squared is 81 and 9 cubed is 729.
+FACT [arithmetic]: The square root of 81 is 9.
+FACT [arithmetic]: 10 squared is 100 and 10 cubed is 1000.
+FACT [arithmetic]: The square root of 100 is 10.
+FACT [arithmetic]: 11 squared is 121 and 11 cubed is 1331.
+FACT [arithmetic]: The square root of 121 is 11.
+FACT [arithmetic]: 12 squared is 144 and 12 cubed is 1728.
+FACT [arithmetic]: The square root of 144 is 12.
+FACT [arithmetic]: 13 squared is 169 and 13 cubed is 2197.
+FACT [arithmetic]: The square root of 169 is 13.
+FACT [arithmetic]: 14 squared is 196 and 14 cubed is 2744.
+FACT [arithmetic]: The square root of 196 is 14.
+FACT [arithmetic]: 15 squared is 225 and 15 cubed is 3375.
+FACT [arithmetic]: The square root of 225 is 15.
+FACT [arithmetic]: 16 squared is 256 and 16 cubed is 4096.
+FACT [arithmetic]: The square root of 256 is 16.
+FACT [arithmetic]: 17 squared is 289 and 17 cubed is 4913.
+FACT [arithmetic]: The square root of 289 is 17.
+FACT [arithmetic]: 18 squared is 324 and 18 cubed is 5832.
+FACT [arithmetic]: The square root of 324 is 18.
+FACT [arithmetic]: 19 squared is 361 and 19 cubed is 6859.
+FACT [arithmetic]: The square root of 361 is 19.
+FACT [arithmetic]: 20 squared is 400 and 20 cubed is 8000.
+FACT [arithmetic]: The square root of 400 is 20.
+FACT [arithmetic]: 21 squared is 441 and 21 cubed is 9261.
+FACT [arithmetic]: The square root of 441 is 21.
+FACT [arithmetic]: 22 squared is 484 and 22 cubed is 10648.
+FACT [arithmetic]: The square root of 484 is 22.
+FACT [arithmetic]: 23 squared is 529 and 23 cubed is 12167.
+FACT [arithmetic]: The square root of 529 is 23.
+FACT [arithmetic]: 24 squared is 576 and 24 cubed is 13824.
+FACT [arithmetic]: The square root of 576 is 24.
+FACT [arithmetic]: 25 squared is 625 and 25 cubed is 15625.
+FACT [arithmetic]: The square root of 625 is 25.
+FACT [arithmetic]: 26 squared is 676 and 26 cubed is 17576.
+FACT [arithmetic]: The square root of 676 is 26.
+FACT [arithmetic]: 27 squared is 729 and 27 cubed is 19683.
+FACT [arithmetic]: The square root of 729 is 27.
+FACT [arithmetic]: 28 squared is 784 and 28 cubed is 21952.
+FACT [arithmetic]: The square root of 784 is 28.
+FACT [arithmetic]: 29 squared is 841 and 29 cubed is 24389.
+FACT [arithmetic]: The square root of 841 is 29.
+FACT [arithmetic]: 30 squared is 900 and 30 cubed is 27000.
+FACT [arithmetic]: The square root of 900 is 30.
+FACT [arithmetic]: 31 squared is 961 and 31 cubed is 29791.
+FACT [arithmetic]: The square root of 961 is 31.
+FACT [arithmetic]: 32 squared is 1024 and 32 cubed is 32768.
+FACT [arithmetic]: The square root of 1024 is 32.
+FACT [arithmetic]: 33 squared is 1089 and 33 cubed is 35937.
+FACT [arithmetic]: The square root of 1089 is 33.
+FACT [arithmetic]: 34 squared is 1156 and 34 cubed is 39304.
+FACT [arithmetic]: The square root of 1156 is 34.
+FACT [arithmetic]: 35 squared is 1225 and 35 cubed is 42875.
+FACT [arithmetic]: The square root of 1225 is 35.
+FACT [arithmetic]: 36 squared is 1296 and 36 cubed is 46656.
+FACT [arithmetic]: The square root of 1296 is 36.
+FACT [arithmetic]: 37 squared is 1369 and 37 cubed is 50653.
+FACT [arithmetic]: The square root of 1369 is 37.
+FACT [arithmetic]: 38 squared is 1444 and 38 cubed is 54872.
+FACT [arithmetic]: The square root of 1444 is 38.
+FACT [arithmetic]: 39 squared is 1521 and 39 cubed is 59319.
+FACT [arithmetic]: The square root of 1521 is 39.
+FACT [arithmetic]: 40 squared is 1600 and 40 cubed is 64000.
+FACT [arithmetic]: The square root of 1600 is 40.
+FACT [arithmetic]: 0 factorial is 1.
+FACT [arithmetic]: 1 factorial is 1.
+FACT [arithmetic]: 2 factorial is 2.
+FACT [arithmetic]: 3 factorial is 6.
+FACT [arithmetic]: 4 factorial is 24.
+FACT [arithmetic]: 5 factorial is 120.
+FACT [arithmetic]: 6 factorial is 720.
+FACT [arithmetic]: 7 factorial is 5040.
+FACT [arithmetic]: 8 factorial is 40320.
+FACT [arithmetic]: 9 factorial is 362880.
+FACT [arithmetic]: 10 factorial is 3628800.
+FACT [arithmetic]: 11 factorial is 39916800.
+FACT [arithmetic]: 12 factorial is 479001600.
+FACT [arithmetic]: 13 factorial is 6227020800.
+FACT [arithmetic]: 14 factorial is 87178291200.
+FACT [arithmetic]: 15 factorial is 1307674368000.
+FACT [arithmetic]: 16 factorial is 20922789888000.
+FACT [arithmetic]: 17 factorial is 355687428096000.
+FACT [arithmetic]: 18 factorial is 6402373705728000.
+FACT [arithmetic]: 19 factorial is 121645100408832000.
+FACT [arithmetic]: 20 factorial is 2432902008176640000.
+FACT [arithmetic]: 2 to the power of 0 is 1.
+FACT [arithmetic]: 2 to the power of 1 is 2.
+FACT [arithmetic]: 2 to the power of 2 is 4.
+FACT [arithmetic]: 2 to the power of 3 is 8.
+FACT [arithmetic]: 2 to the power of 4 is 16.
+FACT [arithmetic]: 2 to the power of 5 is 32.
+FACT [arithmetic]: 2 to the power of 6 is 64.
+FACT [arithmetic]: 2 to the power of 7 is 128.
+FACT [arithmetic]: 2 to the power of 8 is 256.
+FACT [arithmetic]: 2 to the power of 9 is 512.
+FACT [arithmetic]: 2 to the power of 10 is 1024.
+FACT [arithmetic]: 2 to the power of 11 is 2048.
+FACT [arithmetic]: 2 to the power of 12 is 4096.
+FACT [arithmetic]: 2 to the power of 13 is 8192.
+FACT [arithmetic]: 2 to the power of 14 is 16384.
+FACT [arithmetic]: 2 to the power of 15 is 32768.
+FACT [arithmetic]: 2 to the power of 16 is 65536.
+FACT [arithmetic]: 2 to the power of 17 is 131072.
+FACT [arithmetic]: 2 to the power of 18 is 262144.
+FACT [arithmetic]: 2 to the power of 19 is 524288.
+FACT [arithmetic]: 2 to the power of 20 is 1048576.
+FACT [arithmetic]: 2 to the power of 21 is 2097152.
+FACT [arithmetic]: 2 to the power of 22 is 4194304.
+FACT [arithmetic]: 2 to the power of 23 is 8388608.
+FACT [arithmetic]: 2 to the power of 24 is 16777216.
+FACT [arithmetic]: 2 to the power of 25 is 33554432.
+FACT [arithmetic]: 2 to the power of 26 is 67108864.
+FACT [arithmetic]: 2 to the power of 27 is 134217728.
+FACT [arithmetic]: 2 to the power of 28 is 268435456.
+FACT [arithmetic]: 2 to the power of 29 is 536870912.
+FACT [arithmetic]: 2 to the power of 30 is 1073741824.
+FACT [arithmetic]: 2 to the power of 31 is 2147483648.
+FACT [arithmetic]: 2 to the power of 32 is 4294967296.
+FACT [arithmetic]: 2 to the power of 33 is 8589934592.
+FACT [arithmetic]: 2 to the power of 34 is 17179869184.
+FACT [arithmetic]: 2 to the power of 35 is 34359738368.
+FACT [arithmetic]: 2 to the power of 36 is 68719476736.
+FACT [arithmetic]: 2 to the power of 37 is 137438953472.
+FACT [arithmetic]: 2 to the power of 38 is 274877906944.
+FACT [arithmetic]: 2 to the power of 39 is 549755813888.
+FACT [arithmetic]: 2 to the power of 40 is 1099511627776.
+FACT [computing]: The decimal number 0 is 0 in binary and 0 in hexadecimal.
+FACT [computing]: The decimal number 5 is 101 in binary and 5 in hexadecimal.
+FACT [computing]: The decimal number 10 is 1010 in binary and A in hexadecimal.
+FACT [computing]: The decimal number 15 is 1111 in binary and F in hexadecimal.
+FACT [computing]: The decimal number 20 is 10100 in binary and 14 in hexadecimal.
+FACT [computing]: The decimal number 25 is 11001 in binary and 19 in hexadecimal.
+FACT [computing]: The decimal number 30 is 11110 in binary and 1E in hexadecimal.
+FACT [computing]: The decimal number 35 is 100011 in binary and 23 in hexadecimal.
+FACT [computing]: The decimal number 40 is 101000 in binary and 28 in hexadecimal.
+FACT [computing]: The decimal number 45 is 101101 in binary and 2D in hexadecimal.
+FACT [computing]: The decimal number 50 is 110010 in binary and 32 in hexadecimal.
+FACT [computing]: The decimal number 55 is 110111 in binary and 37 in hexadecimal.
+FACT [computing]: The decimal number 60 is 111100 in binary and 3C in hexadecimal.
+FACT [computing]: The decimal number 65 is 1000001 in binary and 41 in hexadecimal.
+FACT [computing]: The decimal number 70 is 1000110 in binary and 46 in hexadecimal.
+FACT [computing]: The decimal number 75 is 1001011 in binary and 4B in hexadecimal.
+FACT [computing]: The decimal number 80 is 1010000 in binary and 50 in hexadecimal.
+FACT [computing]: The decimal number 85 is 1010101 in binary and 55 in hexadecimal.
+FACT [computing]: The decimal number 90 is 1011010 in binary and 5A in hexadecimal.
+FACT [computing]: The decimal number 95 is 1011111 in binary and 5F in hexadecimal.
+FACT [computing]: The decimal number 100 is 1100100 in binary and 64 in hexadecimal.
+FACT [computing]: The decimal number 105 is 1101001 in binary and 69 in hexadecimal.
+FACT [computing]: The decimal number 110 is 1101110 in binary and 6E in hexadecimal.
+FACT [computing]: The decimal number 115 is 1110011 in binary and 73 in hexadecimal.
+FACT [computing]: The decimal number 120 is 1111000 in binary and 78 in hexadecimal.
+FACT [computing]: The decimal number 125 is 1111101 in binary and 7D in hexadecimal.
+FACT [computing]: The decimal number 130 is 10000010 in binary and 82 in hexadecimal.
+FACT [computing]: The decimal number 135 is 10000111 in binary and 87 in hexadecimal.
+FACT [computing]: The decimal number 140 is 10001100 in binary and 8C in hexadecimal.
+FACT [computing]: The decimal number 145 is 10010001 in binary and 91 in hexadecimal.
+FACT [computing]: The decimal number 150 is 10010110 in binary and 96 in hexadecimal.
+FACT [computing]: The decimal number 155 is 10011011 in binary and 9B in hexadecimal.
+FACT [computing]: The decimal number 160 is 10100000 in binary and A0 in hexadecimal.
+FACT [computing]: The decimal number 165 is 10100101 in binary and A5 in hexadecimal.
+FACT [computing]: The decimal number 170 is 10101010 in binary and AA in hexadecimal.
+FACT [computing]: The decimal number 175 is 10101111 in binary and AF in hexadecimal.
+FACT [computing]: The decimal number 180 is 10110100 in binary and B4 in hexadecimal.
+FACT [computing]: The decimal number 185 is 10111001 in binary and B9 in hexadecimal.
+FACT [computing]: The decimal number 190 is 10111110 in binary and BE in hexadecimal.
+FACT [computing]: The decimal number 195 is 11000011 in binary and C3 in hexadecimal.
+FACT [computing]: The decimal number 200 is 11001000 in binary and C8 in hexadecimal.
+FACT [computing]: The decimal number 205 is 11001101 in binary and CD in hexadecimal.
+FACT [computing]: The decimal number 210 is 11010010 in binary and D2 in hexadecimal.
+FACT [computing]: The decimal number 215 is 11010111 in binary and D7 in hexadecimal.
+FACT [computing]: The decimal number 220 is 11011100 in binary and DC in hexadecimal.
+FACT [computing]: The decimal number 225 is 11100001 in binary and E1 in hexadecimal.
+FACT [computing]: The decimal number 230 is 11100110 in binary and E6 in hexadecimal.
+FACT [computing]: The decimal number 235 is 11101011 in binary and EB in hexadecimal.
+FACT [computing]: The decimal number 240 is 11110000 in binary and F0 in hexadecimal.
+FACT [computing]: The decimal number 245 is 11110101 in binary and F5 in hexadecimal.
+FACT [computing]: The decimal number 250 is 11111010 in binary and FA in hexadecimal.
+FACT [computing]: The decimal number 255 is 11111111 in binary and FF in hexadecimal.
+FACT [arithmetic]: There are 168 prime numbers below 1000.
+FACT [arithmetic]: Primes: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29.
+FACT [arithmetic]: Primes: 31, 37, 41, 43, 47, 53, 59, 61, 67, 71.
+FACT [arithmetic]: Primes: 73, 79, 83, 89, 97, 101, 103, 107, 109, 113.
+FACT [arithmetic]: Primes: 127, 131, 137, 139, 149, 151, 157, 163, 167, 173.
+FACT [arithmetic]: Primes: 179, 181, 191, 193, 197, 199, 211, 223, 227, 229.
+FACT [arithmetic]: Primes: 233, 239, 241, 251, 257, 263, 269, 271, 277, 281.
+FACT [arithmetic]: Primes: 283, 293, 307, 311, 313, 317, 331, 337, 347, 349.
+FACT [arithmetic]: Primes: 353, 359, 367, 373, 379, 383, 389, 397, 401, 409.
+FACT [arithmetic]: Primes: 419, 421, 431, 433, 439, 443, 449, 457, 461, 463.
+FACT [arithmetic]: Primes: 467, 479, 487, 491, 499, 503, 509, 521, 523, 541.
+FACT [arithmetic]: Primes: 547, 557, 563, 569, 571, 577, 587, 593, 599, 601.
+FACT [arithmetic]: Primes: 607, 613, 617, 619, 631, 641, 643, 647, 653, 659.
+FACT [arithmetic]: Primes: 661, 673, 677, 683, 691, 701, 709, 719, 727, 733.
+FACT [arithmetic]: Primes: 739, 743, 751, 757, 761, 769, 773, 787, 797, 809.
+FACT [arithmetic]: Primes: 811, 821, 823, 827, 829, 839, 853, 857, 859, 863.
+FACT [arithmetic]: Primes: 877, 881, 883, 887, 907, 911, 919, 929, 937, 941.
+FACT [arithmetic]: Primes: 947, 953, 967, 971, 977, 983, 991, 997.
+FACT [mathematics]: Fibonacci number F(0) is 0.
+FACT [mathematics]: Fibonacci number F(1) is 1.
+FACT [mathematics]: Fibonacci number F(2) is 1.
+FACT [mathematics]: Fibonacci number F(3) is 2.
+FACT [mathematics]: Fibonacci number F(4) is 3.
+FACT [mathematics]: Fibonacci number F(5) is 5.
+FACT [mathematics]: Fibonacci number F(6) is 8.
+FACT [mathematics]: Fibonacci number F(7) is 13.
+FACT [mathematics]: Fibonacci number F(8) is 21.
+FACT [mathematics]: Fibonacci number F(9) is 34.
+FACT [mathematics]: Fibonacci number F(10) is 55.
+FACT [mathematics]: Fibonacci number F(11) is 89.
+FACT [mathematics]: Fibonacci number F(12) is 144.
+FACT [mathematics]: Fibonacci number F(13) is 233.
+FACT [mathematics]: Fibonacci number F(14) is 377.
+FACT [mathematics]: Fibonacci number F(15) is 610.
+FACT [mathematics]: Fibonacci number F(16) is 987.
+FACT [mathematics]: Fibonacci number F(17) is 1597.
+FACT [mathematics]: Fibonacci number F(18) is 2584.
+FACT [mathematics]: Fibonacci number F(19) is 4181.
+FACT [mathematics]: Fibonacci number F(20) is 6765.
+FACT [mathematics]: Fibonacci number F(21) is 10946.
+FACT [mathematics]: Fibonacci number F(22) is 17711.
+FACT [mathematics]: Fibonacci number F(23) is 28657.
+FACT [mathematics]: Fibonacci number F(24) is 46368.
+FACT [mathematics]: Fibonacci number F(25) is 75025.
+FACT [mathematics]: Fibonacci number F(26) is 121393.
+FACT [mathematics]: Fibonacci number F(27) is 196418.
+FACT [mathematics]: Fibonacci number F(28) is 317811.
+FACT [mathematics]: Fibonacci number F(29) is 514229.
+FACT [mathematics]: Fibonacci number F(30) is 832040.
+FACT [mathematics]: Fibonacci number F(31) is 1346269.
+FACT [mathematics]: Fibonacci number F(32) is 2178309.
+FACT [mathematics]: Fibonacci number F(33) is 3524578.
+FACT [mathematics]: Fibonacci number F(34) is 5702887.
+FACT [mathematics]: Fibonacci number F(35) is 9227465.
+FACT [mathematics]: Fibonacci number F(36) is 14930352.
+FACT [mathematics]: Fibonacci number F(37) is 24157817.
+FACT [mathematics]: Fibonacci number F(38) is 39088169.
+FACT [mathematics]: Fibonacci number F(39) is 63245986.
+FACT [language]: The Roman numeral for 1 is I.
+FACT [language]: The Roman numeral for 2 is II.
+FACT [language]: The Roman numeral for 3 is III.
+FACT [language]: The Roman numeral for 4 is IV.
+FACT [language]: The Roman numeral for 5 is V.
+FACT [language]: The Roman numeral for 6 is VI.
+FACT [language]: The Roman numeral for 7 is VII.
+FACT [language]: The Roman numeral for 8 is VIII.
+FACT [language]: The Roman numeral for 9 is IX.
+FACT [language]: The Roman numeral for 10 is X.
+FACT [language]: The Roman numeral for 11 is XI.
+FACT [language]: The Roman numeral for 12 is XII.
+FACT [language]: The Roman numeral for 13 is XIII.
+FACT [language]: The Roman numeral for 14 is XIV.
+FACT [language]: The Roman numeral for 15 is XV.
+FACT [language]: The Roman numeral for 16 is XVI.
+FACT [language]: The Roman numeral for 17 is XVII.
+FACT [language]: The Roman numeral for 18 is XVIII.
+FACT [language]: The Roman numeral for 19 is XIX.
+FACT [language]: The Roman numeral for 20 is XX.
+FACT [language]: The Roman numeral for 21 is XXI.
+FACT [language]: The Roman numeral for 22 is XXII.
+FACT [language]: The Roman numeral for 23 is XXIII.
+FACT [language]: The Roman numeral for 24 is XXIV.
+FACT [language]: The Roman numeral for 25 is XXV.
+FACT [language]: The Roman numeral for 26 is XXVI.
+FACT [language]: The Roman numeral for 27 is XXVII.
+FACT [language]: The Roman numeral for 28 is XXVIII.
+FACT [language]: The Roman numeral for 29 is XXIX.
+FACT [language]: The Roman numeral for 30 is XXX.
+FACT [language]: The Roman numeral for 31 is XXXI.
+FACT [language]: The Roman numeral for 32 is XXXII.
+FACT [language]: The Roman numeral for 33 is XXXIII.
+FACT [language]: The Roman numeral for 34 is XXXIV.
+FACT [language]: The Roman numeral for 35 is XXXV.
+FACT [language]: The Roman numeral for 36 is XXXVI.
+FACT [language]: The Roman numeral for 37 is XXXVII.
+FACT [language]: The Roman numeral for 38 is XXXVIII.
+FACT [language]: The Roman numeral for 39 is XXXIX.
+FACT [language]: The Roman numeral for 40 is XL.
+FACT [language]: The Roman numeral for 41 is XLI.
+FACT [language]: The Roman numeral for 42 is XLII.
+FACT [language]: The Roman numeral for 43 is XLIII.
+FACT [language]: The Roman numeral for 44 is XLIV.
+FACT [language]: The Roman numeral for 45 is XLV.
+FACT [language]: The Roman numeral for 46 is XLVI.
+FACT [language]: The Roman numeral for 47 is XLVII.
+FACT [language]: The Roman numeral for 48 is XLVIII.
+FACT [language]: The Roman numeral for 49 is XLIX.
+FACT [language]: The Roman numeral for 50 is L.
+FACT [language]: The Roman numeral for 51 is LI.
+FACT [language]: The Roman numeral for 52 is LII.
+FACT [language]: The Roman numeral for 53 is LIII.
+FACT [language]: The Roman numeral for 54 is LIV.
+FACT [language]: The Roman numeral for 55 is LV.
+FACT [language]: The Roman numeral for 56 is LVI.
+FACT [language]: The Roman numeral for 57 is LVII.
+FACT [language]: The Roman numeral for 58 is LVIII.
+FACT [language]: The Roman numeral for 59 is LIX.
+FACT [language]: The Roman numeral for 60 is LX.
+FACT [language]: The Roman numeral for 61 is LXI.
+FACT [language]: The Roman numeral for 62 is LXII.
+FACT [language]: The Roman numeral for 63 is LXIII.
+FACT [language]: The Roman numeral for 64 is LXIV.
+FACT [language]: The Roman numeral for 65 is LXV.
+FACT [language]: The Roman numeral for 66 is LXVI.
+FACT [language]: The Roman numeral for 67 is LXVII.
+FACT [language]: The Roman numeral for 68 is LXVIII.
+FACT [language]: The Roman numeral for 69 is LXIX.
+FACT [language]: The Roman numeral for 70 is LXX.
+FACT [language]: The Roman numeral for 71 is LXXI.
+FACT [language]: The Roman numeral for 72 is LXXII.
+FACT [language]: The Roman numeral for 73 is LXXIII.
+FACT [language]: The Roman numeral for 74 is LXXIV.
+FACT [language]: The Roman numeral for 75 is LXXV.
+FACT [language]: The Roman numeral for 76 is LXXVI.
+FACT [language]: The Roman numeral for 77 is LXXVII.
+FACT [language]: The Roman numeral for 78 is LXXVIII.
+FACT [language]: The Roman numeral for 79 is LXXIX.
+FACT [language]: The Roman numeral for 80 is LXXX.
+FACT [language]: The Roman numeral for 81 is LXXXI.
+FACT [language]: The Roman numeral for 82 is LXXXII.
+FACT [language]: The Roman numeral for 83 is LXXXIII.
+FACT [language]: The Roman numeral for 84 is LXXXIV.
+FACT [language]: The Roman numeral for 85 is LXXXV.
+FACT [language]: The Roman numeral for 86 is LXXXVI.
+FACT [language]: The Roman numeral for 87 is LXXXVII.
+FACT [language]: The Roman numeral for 88 is LXXXVIII.
+FACT [language]: The Roman numeral for 89 is LXXXIX.
+FACT [language]: The Roman numeral for 90 is XC.
+FACT [language]: The Roman numeral for 91 is XCI.
+FACT [language]: The Roman numeral for 92 is XCII.
+FACT [language]: The Roman numeral for 93 is XCIII.
+FACT [language]: The Roman numeral for 94 is XCIV.
+FACT [language]: The Roman numeral for 95 is XCV.
+FACT [language]: The Roman numeral for 96 is XCVI.
+FACT [language]: The Roman numeral for 97 is XCVII.
+FACT [language]: The Roman numeral for 98 is XCVIII.
+FACT [language]: The Roman numeral for 99 is XCIX.
+FACT [language]: The Roman numeral for 100 is C.
+FACT [units]: -40 degrees Celsius equals -40 degrees Fahrenheit and 233.15 kelvin.
+FACT [units]: -35 degrees Celsius equals -31 degrees Fahrenheit and 238.15 kelvin.
+FACT [units]: -30 degrees Celsius equals -22 degrees Fahrenheit and 243.15 kelvin.
+FACT [units]: -25 degrees Celsius equals -13 degrees Fahrenheit and 248.15 kelvin.
+FACT [units]: -20 degrees Celsius equals -4 degrees Fahrenheit and 253.15 kelvin.
+FACT [units]: -15 degrees Celsius equals 5 degrees Fahrenheit and 258.15 kelvin.
+FACT [units]: -10 degrees Celsius equals 14 degrees Fahrenheit and 263.15 kelvin.
+FACT [units]: -5 degrees Celsius equals 23 degrees Fahrenheit and 268.15 kelvin.
+FACT [units]: 0 degrees Celsius equals 32 degrees Fahrenheit and 273.15 kelvin.
+FACT [units]: 5 degrees Celsius equals 41 degrees Fahrenheit and 278.15 kelvin.
+FACT [units]: 10 degrees Celsius equals 50 degrees Fahrenheit and 283.15 kelvin.
+FACT [units]: 15 degrees Celsius equals 59 degrees Fahrenheit and 288.15 kelvin.
+FACT [units]: 20 degrees Celsius equals 68 degrees Fahrenheit and 293.15 kelvin.
+FACT [units]: 25 degrees Celsius equals 77 degrees Fahrenheit and 298.15 kelvin.
+FACT [units]: 30 degrees Celsius equals 86 degrees Fahrenheit and 303.15 kelvin.
+FACT [units]: 35 degrees Celsius equals 95 degrees Fahrenheit and 308.15 kelvin.
+FACT [units]: 40 degrees Celsius equals 104 degrees Fahrenheit and 313.15 kelvin.
+FACT [units]: 45 degrees Celsius equals 113 degrees Fahrenheit and 318.15 kelvin.
+FACT [units]: 50 degrees Celsius equals 122 degrees Fahrenheit and 323.15 kelvin.
+FACT [units]: 55 degrees Celsius equals 131 degrees Fahrenheit and 328.15 kelvin.
+FACT [units]: 60 degrees Celsius equals 140 degrees Fahrenheit and 333.15 kelvin.
+FACT [units]: 65 degrees Celsius equals 149 degrees Fahrenheit and 338.15 kelvin.
+FACT [units]: 70 degrees Celsius equals 158 degrees Fahrenheit and 343.15 kelvin.
+FACT [units]: 75 degrees Celsius equals 167 degrees Fahrenheit and 348.15 kelvin.
+FACT [units]: 80 degrees Celsius equals 176 degrees Fahrenheit and 353.15 kelvin.
+FACT [units]: 85 degrees Celsius equals 185 degrees Fahrenheit and 358.15 kelvin.
+FACT [units]: 90 degrees Celsius equals 194 degrees Fahrenheit and 363.15 kelvin.
+FACT [units]: 95 degrees Celsius equals 203 degrees Fahrenheit and 368.15 kelvin.
+FACT [units]: 100 degrees Celsius equals 212 degrees Fahrenheit and 373.15 kelvin.
+FACT [units]: 1 kilometers is about 0.621 miles.
+FACT [units]: 2 kilometers is about 1.243 miles.
+FACT [units]: 5 kilometers is about 3.107 miles.
+FACT [units]: 10 kilometers is about 6.214 miles.
+FACT [units]: 21.0975 kilometers is about 13.109 miles.
+FACT [units]: 42.195 kilometers is about 26.219 miles.
+FACT [units]: 50 kilometers is about 31.069 miles.
+FACT [units]: 100 kilometers is about 62.137 miles.
+FACT [units]: 200 kilometers is about 124.274 miles.
+FACT [units]: 500 kilometers is about 310.685 miles.
+FACT [units]: 1 kilograms is about 2.20 pounds.
+FACT [units]: 2 kilograms is about 4.41 pounds.
+FACT [units]: 5 kilograms is about 11.02 pounds.
+FACT [units]: 10 kilograms is about 22.05 pounds.
+FACT [units]: 25 kilograms is about 55.12 pounds.
+FACT [units]: 50 kilograms is about 110.23 pounds.
+FACT [units]: 75 kilograms is about 165.35 pounds.
+FACT [units]: 100 kilograms is about 220.46 pounds.
+FACT [units]: 1 hours is 60 minutes or 3600 seconds.
+FACT [units]: 2 hours is 120 minutes or 7200 seconds.
+FACT [units]: 3 hours is 180 minutes or 10800 seconds.
+FACT [units]: 4 hours is 240 minutes or 14400 seconds.
+FACT [units]: 5 hours is 300 minutes or 18000 seconds.
+FACT [units]: 6 hours is 360 minutes or 21600 seconds.
+FACT [units]: 7 hours is 420 minutes or 25200 seconds.
+FACT [units]: 8 hours is 480 minutes or 28800 seconds.
+FACT [units]: 9 hours is 540 minutes or 32400 seconds.
+FACT [units]: 10 hours is 600 minutes or 36000 seconds.
+FACT [units]: 11 hours is 660 minutes or 39600 seconds.
+FACT [units]: 12 hours is 720 minutes or 43200 seconds.
+FACT [units]: 13 hours is 780 minutes or 46800 seconds.
+FACT [units]: 14 hours is 840 minutes or 50400 seconds.
+FACT [units]: 15 hours is 900 minutes or 54000 seconds.
+FACT [units]: 16 hours is 960 minutes or 57600 seconds.
+FACT [units]: 17 hours is 1020 minutes or 61200 seconds.
+FACT [units]: 18 hours is 1080 minutes or 64800 seconds.
+FACT [units]: 19 hours is 1140 minutes or 68400 seconds.
+FACT [units]: 20 hours is 1200 minutes or 72000 seconds.
+FACT [units]: 21 hours is 1260 minutes or 75600 seconds.
+FACT [units]: 22 hours is 1320 minutes or 79200 seconds.
+FACT [units]: 23 hours is 1380 minutes or 82800 seconds.
+FACT [units]: 24 hours is 1440 minutes or 86400 seconds.
+FACT [calendar]: January is month number 1 of the year and has 31 days.
+FACT [calendar]: February is month number 2 of the year and has 28 (29 in a leap year) days.
+FACT [calendar]: March is month number 3 of the year and has 31 days.
+FACT [calendar]: April is month number 4 of the year and has 30 days.
+FACT [calendar]: May is month number 5 of the year and has 31 days.
+FACT [calendar]: June is month number 6 of the year and has 30 days.
+FACT [calendar]: July is month number 7 of the year and has 31 days.
+FACT [calendar]: August is month number 8 of the year and has 31 days.
+FACT [calendar]: September is month number 9 of the year and has 30 days.
+FACT [calendar]: October is month number 10 of the year and has 31 days.
+FACT [calendar]: November is month number 11 of the year and has 30 days.
+FACT [calendar]: December is month number 12 of the year and has 31 days.
+FACT [astronomy]: Mercury is planet number 1 from the Sun, about 0.39 AU away, with an orbital period of about 88 Earth days.
+FACT [astronomy]: Venus is planet number 2 from the Sun, about 0.72 AU away, with an orbital period of about 225 Earth days.
+FACT [astronomy]: Earth is planet number 3 from the Sun, about 1.0 AU away, with an orbital period of about 365 Earth days.
+FACT [astronomy]: Mars is planet number 4 from the Sun, about 1.52 AU away, with an orbital period of about 687 Earth days.
+FACT [astronomy]: Jupiter is planet number 5 from the Sun, about 5.2 AU away, with an orbital period of about 4333 Earth days.
+FACT [astronomy]: Saturn is planet number 6 from the Sun, about 9.58 AU away, with an orbital period of about 10759 Earth days.
+FACT [astronomy]: Uranus is planet number 7 from the Sun, about 19.2 AU away, with an orbital period of about 30687 Earth days.
+FACT [astronomy]: Neptune is planet number 8 from the Sun, about 30.05 AU away, with an orbital period of about 60190 Earth days.
+FACT [language]: The letter A is number 1 of the English alphabet.
+FACT [language]: The letter B is number 2 of the English alphabet.
+FACT [language]: The letter C is number 3 of the English alphabet.
+FACT [language]: The letter D is number 4 of the English alphabet.
+FACT [language]: The letter E is number 5 of the English alphabet.
+FACT [language]: The letter F is number 6 of the English alphabet.
+FACT [language]: The letter G is number 7 of the English alphabet.
+FACT [language]: The letter H is number 8 of the English alphabet.
+FACT [language]: The letter I is number 9 of the English alphabet.
+FACT [language]: The letter J is number 10 of the English alphabet.
+FACT [language]: The letter K is number 11 of the English alphabet.
+FACT [language]: The letter L is number 12 of the English alphabet.
+FACT [language]: The letter M is number 13 of the English alphabet.
+FACT [language]: The letter N is number 14 of the English alphabet.
+FACT [language]: The letter O is number 15 of the English alphabet.
+FACT [language]: The letter P is number 16 of the English alphabet.
+FACT [language]: The letter Q is number 17 of the English alphabet.
+FACT [language]: The letter R is number 18 of the English alphabet.
+FACT [language]: The letter S is number 19 of the English alphabet.
+FACT [language]: The letter T is number 20 of the English alphabet.
+FACT [language]: The letter U is number 21 of the English alphabet.
+FACT [language]: The letter V is number 22 of the English alphabet.
+FACT [language]: The letter W is number 23 of the English alphabet.
+FACT [language]: The letter X is number 24 of the English alphabet.
+FACT [language]: The letter Y is number 25 of the English alphabet.
+FACT [language]: The letter Z is number 26 of the English alphabet.
+FACT [calendar]: Monday is day 1 of the ISO week.
+FACT [calendar]: Tuesday is day 2 of the ISO week.
+FACT [calendar]: Wednesday is day 3 of the ISO week.
+FACT [calendar]: Thursday is day 4 of the ISO week.
+FACT [calendar]: Friday is day 5 of the ISO week.
+FACT [calendar]: Saturday is day 6 of the ISO week.
+FACT [calendar]: Sunday is day 7 of the ISO week.
+
+### SECTION: CONVERSATIONS (GENERATED)
+
+User: What is the capital of Afghanistan?
+Assistant: The capital of Afghanistan is Kabul.
+<|end|>
+User: What is the capital of Argentina?
+Assistant: The capital of Argentina is Buenos Aires.
+<|end|>
+User: What is the capital of Austria?
+Assistant: The capital of Austria is Vienna.
+<|end|>
+User: What is the capital of Bangladesh?
+Assistant: The capital of Bangladesh is Dhaka.
+<|end|>
+User: What is the capital of Belgium?
+Assistant: The capital of Belgium is Brussels.
+<|end|>
+User: What is the capital of Bolivia?
+Assistant: The capital of Bolivia is Sucre.
+<|end|>
+User: What is the capital of Bulgaria?
+Assistant: The capital of Bulgaria is Sofia.
+<|end|>
+User: What is the capital of Cambodia?
+Assistant: The capital of Cambodia is Phnom Penh.
+<|end|>
+User: What is the capital of Chile?
+Assistant: The capital of Chile is Santiago.
+<|end|>
+User: What is the capital of China?
+Assistant: The capital of China is Beijing.
+<|end|>
+User: What is the capital of Colombia?
+Assistant: The capital of Colombia is Bogota.
+<|end|>
+User: What is the capital of Croatia?
+Assistant: The capital of Croatia is Zagreb.
+<|end|>
+User: What is the capital of Cuba?
+Assistant: The capital of Cuba is Havana.
+<|end|>
+User: What is the capital of Czech Republic?
+Assistant: The capital of Czech Republic is Prague.
+<|end|>
+User: What is the capital of Denmark?
+Assistant: The capital of Denmark is Copenhagen.
+<|end|>
+User: What is the capital of Ecuador?
+Assistant: The capital of Ecuador is Quito.
+<|end|>
+User: What is the capital of Ethiopia?
+Assistant: The capital of Ethiopia is Addis Ababa.
+<|end|>
+User: What is the capital of Finland?
+Assistant: The capital of Finland is Helsinki.
+<|end|>
+User: What is the capital of France?
+Assistant: The capital of France is Paris.
+<|end|>
+User: What is the capital of Germany?
+Assistant: The capital of Germany is Berlin.
+<|end|>
+User: What is the capital of Ghana?
+Assistant: The capital of Ghana is Accra.
+<|end|>
+User: What is the capital of Greece?
+Assistant: The capital of Greece is Athens.
+<|end|>
+User: What is the capital of Hungary?
+Assistant: The capital of Hungary is Budapest.
+<|end|>
+User: What is the capital of Iceland?
+Assistant: The capital of Iceland is Reykjavik.
+<|end|>
+User: What is the capital of Indonesia?
+Assistant: The capital of Indonesia is Jakarta.
+<|end|>
+User: What is the capital of Iran?
+Assistant: The capital of Iran is Tehran.
+<|end|>
+User: What is the capital of Iraq?
+Assistant: The capital of Iraq is Baghdad.
+<|end|>
+User: What is the capital of Ireland?
+Assistant: The capital of Ireland is Dublin.
+<|end|>
+User: What is the capital of Israel?
+Assistant: The capital of Israel is Jerusalem.
+<|end|>
+User: What is the capital of Italy?
+Assistant: The capital of Italy is Rome.
+<|end|>
+User: What is the capital of Jamaica?
+Assistant: The capital of Jamaica is Kingston.
+<|end|>
+User: What is the capital of Jordan?
+Assistant: The capital of Jordan is Amman.
+<|end|>
+User: What is the capital of Kazakhstan?
+Assistant: The capital of Kazakhstan is Astana.
+<|end|>
+User: What is the capital of Laos?
+Assistant: The capital of Laos is Vientiane.
+<|end|>
+User: What is the capital of Lebanon?
+Assistant: The capital of Lebanon is Beirut.
+<|end|>
+User: What is the capital of Malaysia?
+Assistant: The capital of Malaysia is Kuala Lumpur.
+<|end|>
+User: What is the capital of Mexico?
+Assistant: The capital of Mexico is Mexico City.
+<|end|>
+User: What is the capital of Mongolia?
+Assistant: The capital of Mongolia is Ulaanbaatar.
+<|end|>
+User: What is the capital of Morocco?
+Assistant: The capital of Morocco is Rabat.
+<|end|>
+User: What is the capital of Nepal?
+Assistant: The capital of Nepal is Kathmandu.
+<|end|>
+User: What is the capital of Netherlands?
+Assistant: The capital of Netherlands is Amsterdam.
+<|end|>
+User: What is the capital of New Zealand?
+Assistant: The capital of New Zealand is Wellington.
+<|end|>
+User: What is the capital of Nigeria?
+Assistant: The capital of Nigeria is Abuja.
+<|end|>
+User: What is the capital of Norway?
+Assistant: The capital of Norway is Oslo.
+<|end|>
+User: What is the capital of Pakistan?
+Assistant: The capital of Pakistan is Islamabad.
+<|end|>
+User: What is the capital of Peru?
+Assistant: The capital of Peru is Lima.
+<|end|>
+User: What is the capital of Philippines?
+Assistant: The capital of Philippines is Manila.
+<|end|>
+User: What is the capital of Poland?
+Assistant: The capital of Poland is Warsaw.
+<|end|>
+User: What is the capital of Portugal?
+Assistant: The capital of Portugal is Lisbon.
+<|end|>
+User: What is the capital of Romania?
+Assistant: The capital of Romania is Bucharest.
+<|end|>
+User: What is the capital of Russia?
+Assistant: The capital of Russia is Moscow.
+<|end|>
+User: What is the capital of Saudi Arabia?
+Assistant: The capital of Saudi Arabia is Riyadh.
+<|end|>
+User: What is the capital of Serbia?
+Assistant: The capital of Serbia is Belgrade.
+<|end|>
+User: What is the capital of Singapore?
+Assistant: The capital of Singapore is Singapore.
+<|end|>
+User: What is the capital of Slovakia?
+Assistant: The capital of Slovakia is Bratislava.
+<|end|>
+User: What is the capital of Somalia?
+Assistant: The capital of Somalia is Mogadishu.
+<|end|>
+User: What is the capital of South Africa?
+Assistant: The capital of South Africa is Pretoria.
+<|end|>
+User: What is the capital of Spain?
+Assistant: The capital of Spain is Madrid.
+<|end|>
+User: What is the capital of Sri Lanka?
+Assistant: The capital of Sri Lanka is Sri Jayawardenepura Kotte.
+<|end|>
+User: What is the capital of Sudan?
+Assistant: The capital of Sudan is Khartoum.
+<|end|>
+User: What is the capital of Sweden?
+Assistant: The capital of Sweden is Stockholm.
+<|end|>
+User: What is the capital of Switzerland?
+Assistant: The capital of Switzerland is Bern.
+<|end|>
+User: What is the capital of Syria?
+Assistant: The capital of Syria is Damascus.
+<|end|>
+User: What is the capital of Tanzania?
+Assistant: The capital of Tanzania is Dodoma.
+<|end|>
+User: What is the capital of Thailand?
+Assistant: The capital of Thailand is Bangkok.
+<|end|>
+User: What is the capital of Tunisia?
+Assistant: The capital of Tunisia is Tunis.
+<|end|>
+User: What is the capital of Ukraine?
+Assistant: The capital of Ukraine is Kyiv.
+<|end|>
+User: What is the capital of United Kingdom?
+Assistant: The capital of United Kingdom is London.
+<|end|>
+User: What is the capital of United States?
+Assistant: The capital of United States is Washington, D.C..
+<|end|>
+User: What is the capital of Uruguay?
+Assistant: The capital of Uruguay is Montevideo.
+<|end|>
+User: What is the capital of Venezuela?
+Assistant: The capital of Venezuela is Caracas.
+<|end|>
+User: What is the capital of Vietnam?
+Assistant: The capital of Vietnam is Hanoi.
+<|end|>
+User: What is the capital of Zimbabwe?
+Assistant: The capital of Zimbabwe is Harare.
+<|end|>
+User: What is the capital of Algeria?
+Assistant: The capital of Algeria is Algiers.
+<|end|>
+User: What is the capital of Angola?
+Assistant: The capital of Angola is Luanda.
+<|end|>
+User: What is the capital of Belarus?
+Assistant: The capital of Belarus is Minsk.
+<|end|>
+User: What is the capital of Bhutan?
+Assistant: The capital of Bhutan is Thimphu.
+<|end|>
+User: What is the capital of Botswana?
+Assistant: The capital of Botswana is Gaborone.
+<|end|>
+User: What is the capital of Estonia?
+Assistant: The capital of Estonia is Tallinn.
+<|end|>
+User: What is the capital of Latvia?
+Assistant: The capital of Latvia is Riga.
+<|end|>
+User: What is the capital of Lithuania?
+Assistant: The capital of Lithuania is Vilnius.
+<|end|>
+User: What is the capital of Libya?
+Assistant: The capital of Libya is Tripoli.
+<|end|>
+User: What is the capital of Madagascar?
+Assistant: The capital of Madagascar is Antananarivo.
+<|end|>
+User: What is the capital of Myanmar?
+Assistant: The capital of Myanmar is Naypyidaw.
+<|end|>
+User: What is the capital of Namibia?
+Assistant: The capital of Namibia is Windhoek.
+<|end|>
+User: What is the capital of Panama?
+Assistant: The capital of Panama is Panama City.
+<|end|>
+User: What is the capital of Paraguay?
+Assistant: The capital of Paraguay is Asuncion.
+<|end|>
+User: What is the capital of Qatar?
+Assistant: The capital of Qatar is Doha.
+<|end|>
+User: What is the capital of Senegal?
+Assistant: The capital of Senegal is Dakar.
+<|end|>
+User: What is the capital of Slovenia?
+Assistant: The capital of Slovenia is Ljubljana.
+<|end|>
+User: What is the capital of Uganda?
+Assistant: The capital of Uganda is Kampala.
+<|end|>
+User: What is the capital of Uzbekistan?
+Assistant: The capital of Uzbekistan is Tashkent.
+<|end|>
+User: What is the capital of Yemen?
+Assistant: The capital of Yemen is Sanaa.
+<|end|>
+User: What is the capital of Zambia?
+Assistant: The capital of Zambia is Lusaka.
+<|end|>
+User: What is the atomic number of hydrogen?
+Assistant: Hydrogen has atomic number 1, and its symbol is H.
+<|end|>
+User: Which element has the symbol H?
+Assistant: H is the symbol for hydrogen, atomic number 1.
+<|end|>
+User: What is the atomic number of helium?
+Assistant: Helium has atomic number 2, and its symbol is He.
+<|end|>
+User: Which element has the symbol He?
+Assistant: He is the symbol for helium, atomic number 2.
+<|end|>
+User: What is the atomic number of lithium?
+Assistant: Lithium has atomic number 3, and its symbol is Li.
+<|end|>
+User: Which element has the symbol Li?
+Assistant: Li is the symbol for lithium, atomic number 3.
+<|end|>
+User: What is the atomic number of beryllium?
+Assistant: Beryllium has atomic number 4, and its symbol is Be.
+<|end|>
+User: Which element has the symbol Be?
+Assistant: Be is the symbol for beryllium, atomic number 4.
+<|end|>
+User: What is the atomic number of boron?
+Assistant: Boron has atomic number 5, and its symbol is B.
+<|end|>
+User: Which element has the symbol B?
+Assistant: B is the symbol for boron, atomic number 5.
+<|end|>
+User: What is the atomic number of carbon?
+Assistant: Carbon has atomic number 6, and its symbol is C.
+<|end|>
+User: Which element has the symbol C?
+Assistant: C is the symbol for carbon, atomic number 6.
+<|end|>
+User: What is the atomic number of nitrogen?
+Assistant: Nitrogen has atomic number 7, and its symbol is N.
+<|end|>
+User: Which element has the symbol N?
+Assistant: N is the symbol for nitrogen, atomic number 7.
+<|end|>
+User: What is the atomic number of oxygen?
+Assistant: Oxygen has atomic number 8, and its symbol is O.
+<|end|>
+User: Which element has the symbol O?
+Assistant: O is the symbol for oxygen, atomic number 8.
+<|end|>
+User: What is the atomic number of fluorine?
+Assistant: Fluorine has atomic number 9, and its symbol is F.
+<|end|>
+User: Which element has the symbol F?
+Assistant: F is the symbol for fluorine, atomic number 9.
+<|end|>
+User: What is the atomic number of neon?
+Assistant: Neon has atomic number 10, and its symbol is Ne.
+<|end|>
+User: Which element has the symbol Ne?
+Assistant: Ne is the symbol for neon, atomic number 10.
+<|end|>
+User: What is the atomic number of sodium?
+Assistant: Sodium has atomic number 11, and its symbol is Na.
+<|end|>
+User: Which element has the symbol Na?
+Assistant: Na is the symbol for sodium, atomic number 11.
+<|end|>
+User: What is the atomic number of magnesium?
+Assistant: Magnesium has atomic number 12, and its symbol is Mg.
+<|end|>
+User: Which element has the symbol Mg?
+Assistant: Mg is the symbol for magnesium, atomic number 12.
+<|end|>
+User: What is the atomic number of aluminium?
+Assistant: Aluminium has atomic number 13, and its symbol is Al.
+<|end|>
+User: Which element has the symbol Al?
+Assistant: Al is the symbol for aluminium, atomic number 13.
+<|end|>
+User: What is the atomic number of silicon?
+Assistant: Silicon has atomic number 14, and its symbol is Si.
+<|end|>
+User: Which element has the symbol Si?
+Assistant: Si is the symbol for silicon, atomic number 14.
+<|end|>
+User: What is the atomic number of phosphorus?
+Assistant: Phosphorus has atomic number 15, and its symbol is P.
+<|end|>
+User: Which element has the symbol P?
+Assistant: P is the symbol for phosphorus, atomic number 15.
+<|end|>
+User: What is the atomic number of sulfur?
+Assistant: Sulfur has atomic number 16, and its symbol is S.
+<|end|>
+User: Which element has the symbol S?
+Assistant: S is the symbol for sulfur, atomic number 16.
+<|end|>
+User: What is the atomic number of chlorine?
+Assistant: Chlorine has atomic number 17, and its symbol is Cl.
+<|end|>
+User: Which element has the symbol Cl?
+Assistant: Cl is the symbol for chlorine, atomic number 17.
+<|end|>
+User: What is the atomic number of argon?
+Assistant: Argon has atomic number 18, and its symbol is Ar.
+<|end|>
+User: Which element has the symbol Ar?
+Assistant: Ar is the symbol for argon, atomic number 18.
+<|end|>
+User: What is the atomic number of potassium?
+Assistant: Potassium has atomic number 19, and its symbol is K.
+<|end|>
+User: Which element has the symbol K?
+Assistant: K is the symbol for potassium, atomic number 19.
+<|end|>
+User: What is the atomic number of calcium?
+Assistant: Calcium has atomic number 20, and its symbol is Ca.
+<|end|>
+User: Which element has the symbol Ca?
+Assistant: Ca is the symbol for calcium, atomic number 20.
+<|end|>
+User: What is the atomic number of scandium?
+Assistant: Scandium has atomic number 21, and its symbol is Sc.
+<|end|>
+User: Which element has the symbol Sc?
+Assistant: Sc is the symbol for scandium, atomic number 21.
+<|end|>
+User: What is the atomic number of titanium?
+Assistant: Titanium has atomic number 22, and its symbol is Ti.
+<|end|>
+User: Which element has the symbol Ti?
+Assistant: Ti is the symbol for titanium, atomic number 22.
+<|end|>
+User: What is the atomic number of vanadium?
+Assistant: Vanadium has atomic number 23, and its symbol is V.
+<|end|>
+User: Which element has the symbol V?
+Assistant: V is the symbol for vanadium, atomic number 23.
+<|end|>
+User: What is the atomic number of chromium?
+Assistant: Chromium has atomic number 24, and its symbol is Cr.
+<|end|>
+User: Which element has the symbol Cr?
+Assistant: Cr is the symbol for chromium, atomic number 24.
+<|end|>
+User: What is the atomic number of manganese?
+Assistant: Manganese has atomic number 25, and its symbol is Mn.
+<|end|>
+User: Which element has the symbol Mn?
+Assistant: Mn is the symbol for manganese, atomic number 25.
+<|end|>
+User: What is the atomic number of iron?
+Assistant: Iron has atomic number 26, and its symbol is Fe.
+<|end|>
+User: Which element has the symbol Fe?
+Assistant: Fe is the symbol for iron, atomic number 26.
+<|end|>
+User: What is the atomic number of cobalt?
+Assistant: Cobalt has atomic number 27, and its symbol is Co.
+<|end|>
+User: Which element has the symbol Co?
+Assistant: Co is the symbol for cobalt, atomic number 27.
+<|end|>
+User: What is the atomic number of nickel?
+Assistant: Nickel has atomic number 28, and its symbol is Ni.
+<|end|>
+User: Which element has the symbol Ni?
+Assistant: Ni is the symbol for nickel, atomic number 28.
+<|end|>
+User: What is the atomic number of copper?
+Assistant: Copper has atomic number 29, and its symbol is Cu.
+<|end|>
+User: Which element has the symbol Cu?
+Assistant: Cu is the symbol for copper, atomic number 29.
+<|end|>
+User: What is the atomic number of zinc?
+Assistant: Zinc has atomic number 30, and its symbol is Zn.
+<|end|>
+User: Which element has the symbol Zn?
+Assistant: Zn is the symbol for zinc, atomic number 30.
+<|end|>
+User: What is the atomic number of gallium?
+Assistant: Gallium has atomic number 31, and its symbol is Ga.
+<|end|>
+User: Which element has the symbol Ga?
+Assistant: Ga is the symbol for gallium, atomic number 31.
+<|end|>
+User: What is the atomic number of germanium?
+Assistant: Germanium has atomic number 32, and its symbol is Ge.
+<|end|>
+User: Which element has the symbol Ge?
+Assistant: Ge is the symbol for germanium, atomic number 32.
+<|end|>
+User: What is the atomic number of arsenic?
+Assistant: Arsenic has atomic number 33, and its symbol is As.
+<|end|>
+User: Which element has the symbol As?
+Assistant: As is the symbol for arsenic, atomic number 33.
+<|end|>
+User: What is the atomic number of selenium?
+Assistant: Selenium has atomic number 34, and its symbol is Se.
+<|end|>
+User: Which element has the symbol Se?
+Assistant: Se is the symbol for selenium, atomic number 34.
+<|end|>
+User: What is the atomic number of bromine?
+Assistant: Bromine has atomic number 35, and its symbol is Br.
+<|end|>
+User: Which element has the symbol Br?
+Assistant: Br is the symbol for bromine, atomic number 35.
+<|end|>
+User: What is the atomic number of krypton?
+Assistant: Krypton has atomic number 36, and its symbol is Kr.
+<|end|>
+User: Which element has the symbol Kr?
+Assistant: Kr is the symbol for krypton, atomic number 36.
+<|end|>
+User: What is the atomic number of rubidium?
+Assistant: Rubidium has atomic number 37, and its symbol is Rb.
+<|end|>
+User: Which element has the symbol Rb?
+Assistant: Rb is the symbol for rubidium, atomic number 37.
+<|end|>
+User: What is the atomic number of strontium?
+Assistant: Strontium has atomic number 38, and its symbol is Sr.
+<|end|>
+User: Which element has the symbol Sr?
+Assistant: Sr is the symbol for strontium, atomic number 38.
+<|end|>
+User: What is the atomic number of yttrium?
+Assistant: Yttrium has atomic number 39, and its symbol is Y.
+<|end|>
+User: Which element has the symbol Y?
+Assistant: Y is the symbol for yttrium, atomic number 39.
+<|end|>
+User: What is the atomic number of zirconium?
+Assistant: Zirconium has atomic number 40, and its symbol is Zr.
+<|end|>
+User: Which element has the symbol Zr?
+Assistant: Zr is the symbol for zirconium, atomic number 40.
+<|end|>
+User: What is the atomic number of niobium?
+Assistant: Niobium has atomic number 41, and its symbol is Nb.
+<|end|>
+User: Which element has the symbol Nb?
+Assistant: Nb is the symbol for niobium, atomic number 41.
+<|end|>
+User: What is the atomic number of molybdenum?
+Assistant: Molybdenum has atomic number 42, and its symbol is Mo.
+<|end|>
+User: Which element has the symbol Mo?
+Assistant: Mo is the symbol for molybdenum, atomic number 42.
+<|end|>
+User: What is the atomic number of technetium?
+Assistant: Technetium has atomic number 43, and its symbol is Tc.
+<|end|>
+User: Which element has the symbol Tc?
+Assistant: Tc is the symbol for technetium, atomic number 43.
+<|end|>
+User: What is the atomic number of ruthenium?
+Assistant: Ruthenium has atomic number 44, and its symbol is Ru.
+<|end|>
+User: Which element has the symbol Ru?
+Assistant: Ru is the symbol for ruthenium, atomic number 44.
+<|end|>
+User: What is the atomic number of rhodium?
+Assistant: Rhodium has atomic number 45, and its symbol is Rh.
+<|end|>
+User: Which element has the symbol Rh?
+Assistant: Rh is the symbol for rhodium, atomic number 45.
+<|end|>
+User: What is the atomic number of palladium?
+Assistant: Palladium has atomic number 46, and its symbol is Pd.
+<|end|>
+User: Which element has the symbol Pd?
+Assistant: Pd is the symbol for palladium, atomic number 46.
+<|end|>
+User: What is the atomic number of silver?
+Assistant: Silver has atomic number 47, and its symbol is Ag.
+<|end|>
+User: Which element has the symbol Ag?
+Assistant: Ag is the symbol for silver, atomic number 47.
+<|end|>
+User: What is the atomic number of cadmium?
+Assistant: Cadmium has atomic number 48, and its symbol is Cd.
+<|end|>
+User: Which element has the symbol Cd?
+Assistant: Cd is the symbol for cadmium, atomic number 48.
+<|end|>
+User: What is the atomic number of indium?
+Assistant: Indium has atomic number 49, and its symbol is In.
+<|end|>
+User: Which element has the symbol In?
+Assistant: In is the symbol for indium, atomic number 49.
+<|end|>
+User: What is the atomic number of tin?
+Assistant: Tin has atomic number 50, and its symbol is Sn.
+<|end|>
+User: Which element has the symbol Sn?
+Assistant: Sn is the symbol for tin, atomic number 50.
+<|end|>
+User: What is the atomic number of antimony?
+Assistant: Antimony has atomic number 51, and its symbol is Sb.
+<|end|>
+User: Which element has the symbol Sb?
+Assistant: Sb is the symbol for antimony, atomic number 51.
+<|end|>
+User: What is the atomic number of tellurium?
+Assistant: Tellurium has atomic number 52, and its symbol is Te.
+<|end|>
+User: Which element has the symbol Te?
+Assistant: Te is the symbol for tellurium, atomic number 52.
+<|end|>
+User: What is the atomic number of iodine?
+Assistant: Iodine has atomic number 53, and its symbol is I.
+<|end|>
+User: Which element has the symbol I?
+Assistant: I is the symbol for iodine, atomic number 53.
+<|end|>
+User: What is the atomic number of xenon?
+Assistant: Xenon has atomic number 54, and its symbol is Xe.
+<|end|>
+User: Which element has the symbol Xe?
+Assistant: Xe is the symbol for xenon, atomic number 54.
+<|end|>
+User: What is VIII in decimal?
+Assistant: VIII is 8.
+<|end|>
+User: What is XV in decimal?
+Assistant: XV is 15.
+<|end|>
+User: What is XXII in decimal?
+Assistant: XXII is 22.
+<|end|>
+User: What is XXIX in decimal?
+Assistant: XXIX is 29.
+<|end|>
+User: What is XXXVI in decimal?
+Assistant: XXXVI is 36.
+<|end|>
+User: What is XLIII in decimal?
+Assistant: XLIII is 43.
+<|end|>
+User: What is L in decimal?
+Assistant: L is 50.
+<|end|>
+User: What is LVII in decimal?
+Assistant: LVII is 57.
+<|end|>
+User: What is LXIV in decimal?
+Assistant: LXIV is 64.
+<|end|>
+User: What is LXXI in decimal?
+Assistant: LXXI is 71.
+<|end|>
+User: What is LXXVIII in decimal?
+Assistant: LXXVIII is 78.
+<|end|>
+User: What is LXXXV in decimal?
+Assistant: LXXXV is 85.
+<|end|>
+User: What is XCII in decimal?
+Assistant: XCII is 92.
+<|end|>
+User: What is XCIX in decimal?
+Assistant: XCIX is 99.
+<|end|>
+User: What is VII in decimal?
+Assistant: VII is 7.
+<|end|>
+User: What is XIV in decimal?
+Assistant: XIV is 14.
+<|end|>
+User: What is XXI in decimal?
+Assistant: XXI is 21.
+<|end|>
+User: What is XXVIII in decimal?
+Assistant: XXVIII is 28.
+<|end|>
+User: What is XXXV in decimal?
+Assistant: XXXV is 35.
+<|end|>
+User: What is XLII in decimal?
+Assistant: XLII is 42.
+<|end|>
+User: What is XLIX in decimal?
+Assistant: XLIX is 49.
+<|end|>
+User: What is LVI in decimal?
+Assistant: LVI is 56.
+<|end|>
+User: What is LXIII in decimal?
+Assistant: LXIII is 63.
+<|end|>
+User: What is LXX in decimal?
+Assistant: LXX is 70.
+<|end|>
+User: What is LXXVII in decimal?
+Assistant: LXXVII is 77.
+<|end|>
+User: What is LXXXIV in decimal?
+Assistant: LXXXIV is 84.
+<|end|>
+User: What is XCI in decimal?
+Assistant: XCI is 91.
+<|end|>
+User: What is XCVIII in decimal?
+Assistant: XCVIII is 98.
+<|end|>
+User: What is VI in decimal?
+Assistant: VI is 6.
+<|end|>
+User: What is XIII in decimal?
+Assistant: XIII is 13.
+<|end|>
+User: What is XX in decimal?
+Assistant: XX is 20.
+<|end|>
+User: What is XXVII in decimal?
+Assistant: XXVII is 27.
+<|end|>
+User: What is XXXIV in decimal?
+Assistant: XXXIV is 34.
+<|end|>
+User: What is XLI in decimal?
+Assistant: XLI is 41.
+<|end|>
+User: What is XLVIII in decimal?
+Assistant: XLVIII is 48.
+<|end|>
+User: What is LV in decimal?
+Assistant: LV is 55.
+<|end|>
+User: What is LXII in decimal?
+Assistant: LXII is 62.
+<|end|>
+User: What is LXIX in decimal?
+Assistant: LXIX is 69.
+<|end|>
+User: What is LXXVI in decimal?
+Assistant: LXXVI is 76.
+<|end|>
+User: What is LXXXIII in decimal?
+Assistant: LXXXIII is 83.
+<|end|>
+User: How many hours are in 1 days?
+Assistant: 1 days is 24 hours.
+<|end|>
+User: How many hours are in 2 days?
+Assistant: 2 days is 48 hours.
+<|end|>
+User: How many hours are in 3 days?
+Assistant: 3 days is 72 hours.
+<|end|>
+User: How many hours are in 4 days?
+Assistant: 4 days is 96 hours.
+<|end|>
+User: How many hours are in 5 days?
+Assistant: 5 days is 120 hours.
+<|end|>
+User: How many hours are in 6 days?
+Assistant: 6 days is 144 hours.
+<|end|>
+User: How many hours are in 7 days?
+Assistant: 7 days is 168 hours.
+<|end|>
+User: How many hours are in 8 days?
+Assistant: 8 days is 192 hours.
+<|end|>
+User: How many hours are in 9 days?
+Assistant: 9 days is 216 hours.
+<|end|>
+User: How many hours are in 10 days?
+Assistant: 10 days is 240 hours.
+<|end|>
+User: How many hours are in 11 days?
+Assistant: 11 days is 264 hours.
+<|end|>
+User: How many hours are in 12 days?
+Assistant: 12 days is 288 hours.
+<|end|>
+User: How many hours are in 13 days?
+Assistant: 13 days is 312 hours.
+<|end|>
+User: How many hours are in 14 days?
+Assistant: 14 days is 336 hours.
+<|end|>
+User: How many hours are in 15 days?
+Assistant: 15 days is 360 hours.
+<|end|>
+User: How many hours are in 16 days?
+Assistant: 16 days is 384 hours.
+<|end|>
+User: How many hours are in 17 days?
+Assistant: 17 days is 408 hours.
+<|end|>
+User: How many hours are in 18 days?
+Assistant: 18 days is 432 hours.
+<|end|>
+User: How many hours are in 19 days?
+Assistant: 19 days is 456 hours.
+<|end|>
+User: How many hours are in 20 days?
+Assistant: 20 days is 480 hours.
+<|end|>
+User: How many hours are in 21 days?
+Assistant: 21 days is 504 hours.
+<|end|>
+User: How many hours are in 22 days?
+Assistant: 22 days is 528 hours.
+<|end|>
+User: How many hours are in 23 days?
+Assistant: 23 days is 552 hours.
+<|end|>
+User: How many hours are in 24 days?
+Assistant: 24 days is 576 hours.
+<|end|>
+User: How many hours are in 25 days?
+Assistant: 25 days is 600 hours.
+<|end|>
+User: How many hours are in 26 days?
+Assistant: 26 days is 624 hours.
+<|end|>
+User: How many hours are in 27 days?
+Assistant: 27 days is 648 hours.
+<|end|>
+User: How many hours are in 28 days?
+Assistant: 28 days is 672 hours.
+<|end|>
+User: How many hours are in 29 days?
+Assistant: 29 days is 696 hours.
+<|end|>
+User: How many hours are in 30 days?
+Assistant: 30 days is 720 hours.
+<|end|>
+User: Convert 0 Celsius to Fahrenheit.
+Assistant: 0 C = 32 F, using F = C x 9/5 + 32.
+<|end|>
+User: Convert 4 Celsius to Fahrenheit.
+Assistant: 4 C = 39.2 F, using F = C x 9/5 + 32.
+<|end|>
+User: Convert 8 Celsius to Fahrenheit.
+Assistant: 8 C = 46.4 F, using F = C x 9/5 + 32.
+<|end|>
+User: Convert 12 Celsius to Fahrenheit.
+Assistant: 12 C = 53.6 F, using F = C x 9/5 + 32.
+<|end|>
+User: Convert 16 Celsius to Fahrenheit.
+Assistant: 16 C = 60.8 F, using F = C x 9/5 + 32.
+<|end|>
+User: Convert 20 Celsius to Fahrenheit.
+Assistant: 20 C = 68 F, using F = C x 9/5 + 32.
+<|end|>
+User: Convert 24 Celsius to Fahrenheit.
+Assistant: 24 C = 75.2 F, using F = C x 9/5 + 32.
+<|end|>
+User: Convert 28 Celsius to Fahrenheit.
+Assistant: 28 C = 82.4 F, using F = C x 9/5 + 32.
+<|end|>
+User: Convert 32 Celsius to Fahrenheit.
+Assistant: 32 C = 89.6 F, using F = C x 9/5 + 32.
+<|end|>
+User: Convert 36 Celsius to Fahrenheit.
+Assistant: 36 C = 96.8 F, using F = C x 9/5 + 32.
+<|end|>
+User: Convert 40 Celsius to Fahrenheit.
+Assistant: 40 C = 104 F, using F = C x 9/5 + 32.
+<|end|>
+User: Convert 44 Celsius to Fahrenheit.
+Assistant: 44 C = 111.2 F, using F = C x 9/5 + 32.
+<|end|>
+User: Convert 48 Celsius to Fahrenheit.
+Assistant: 48 C = 118.4 F, using F = C x 9/5 + 32.
+<|end|>
+User: Convert 52 Celsius to Fahrenheit.
+Assistant: 52 C = 125.6 F, using F = C x 9/5 + 32.
+<|end|>
+User: Convert 56 Celsius to Fahrenheit.
+Assistant: 56 C = 132.8 F, using F = C x 9/5 + 32.
+<|end|>
+User: Convert 60 Celsius to Fahrenheit.
+Assistant: 60 C = 140 F, using F = C x 9/5 + 32.
+<|end|>
+User: Convert 64 Celsius to Fahrenheit.
+Assistant: 64 C = 147.2 F, using F = C x 9/5 + 32.
+<|end|>
+User: Convert 68 Celsius to Fahrenheit.
+Assistant: 68 C = 154.4 F, using F = C x 9/5 + 32.
+<|end|>
+User: Convert 72 Celsius to Fahrenheit.
+Assistant: 72 C = 161.6 F, using F = C x 9/5 + 32.
+<|end|>
+User: Convert 76 Celsius to Fahrenheit.
+Assistant: 76 C = 168.8 F, using F = C x 9/5 + 32.
+<|end|>
+User: Convert 80 Celsius to Fahrenheit.
+Assistant: 80 C = 176 F, using F = C x 9/5 + 32.
+<|end|>
+User: Convert 84 Celsius to Fahrenheit.
+Assistant: 84 C = 183.2 F, using F = C x 9/5 + 32.
+<|end|>
+User: Convert 88 Celsius to Fahrenheit.
+Assistant: 88 C = 190.4 F, using F = C x 9/5 + 32.
+<|end|>
+User: Convert 92 Celsius to Fahrenheit.
+Assistant: 92 C = 197.6 F, using F = C x 9/5 + 32.
+<|end|>
+User: Convert 96 Celsius to Fahrenheit.
+Assistant: 96 C = 204.8 F, using F = C x 9/5 + 32.
+<|end|>
+User: Convert 100 Celsius to Fahrenheit.
+Assistant: 100 C = 212 F, using F = C x 9/5 + 32.
+<|end|>
+User: How many days are in January?
+Assistant: January has 31 days.
+<|end|>
+User: How many days are in February?
+Assistant: February has 28 (29 in a leap year) days.
+<|end|>
+User: How many days are in March?
+Assistant: March has 31 days.
+<|end|>
+User: How many days are in April?
+Assistant: April has 30 days.
+<|end|>
+User: How many days are in May?
+Assistant: May has 31 days.
+<|end|>
+User: How many days are in June?
+Assistant: June has 30 days.
+<|end|>
+User: How many days are in July?
+Assistant: July has 31 days.
+<|end|>
+User: How many days are in August?
+Assistant: August has 31 days.
+<|end|>
+User: How many days are in September?
+Assistant: September has 30 days.
+<|end|>
+User: How many days are in October?
+Assistant: October has 31 days.
+<|end|>
+User: How many days are in November?
+Assistant: November has 30 days.
+<|end|>
+User: How many days are in December?
+Assistant: December has 31 days.
+<|end|>
+User: How long is a year on Mercury?
+Assistant: A year on Mercury is about 88 Earth days.
+<|end|>
+User: How long is a year on Venus?
+Assistant: A year on Venus is about 225 Earth days.
+<|end|>
+User: How long is a year on Earth?
+Assistant: A year on Earth is about 365 Earth days.
+<|end|>
+User: How long is a year on Mars?
+Assistant: A year on Mars is about 687 Earth days.
+<|end|>
+User: How long is a year on Jupiter?
+Assistant: A year on Jupiter is about 4333 Earth days.
+<|end|>
+User: How long is a year on Saturn?
+Assistant: A year on Saturn is about 10759 Earth days.
+<|end|>
+User: How long is a year on Uranus?
+Assistant: A year on Uranus is about 30687 Earth days.
+<|end|>
+User: How long is a year on Neptune?
+Assistant: A year on Neptune is about 60190 Earth days.
+<|end|>
+User: What is 2 times 3?
+Assistant: 2 times 3 is 6.
+<|end|>
+User: What is 2 times 4?
+Assistant: 2 times 4 is 8.
+<|end|>
+User: What is 2 times 6?
+Assistant: 2 times 6 is 12.
+<|end|>
+User: What is 2 times 7?
+Assistant: 2 times 7 is 14.
+<|end|>
+User: What is 2 times 8?
+Assistant: 2 times 8 is 16.
+<|end|>
+User: What is 2 times 9?
+Assistant: 2 times 9 is 18.
+<|end|>
+User: What is 3 times 3?
+Assistant: 3 times 3 is 9.
+<|end|>
+User: What is 3 times 4?
+Assistant: 3 times 4 is 12.
+<|end|>
+User: What is 3 times 6?
+Assistant: 3 times 6 is 18.
+<|end|>
+User: What is 3 times 7?
+Assistant: 3 times 7 is 21.
+<|end|>
+User: What is 3 times 8?
+Assistant: 3 times 8 is 24.
+<|end|>
+User: What is 3 times 9?
+Assistant: 3 times 9 is 27.
+<|end|>
+User: What is 4 times 3?
+Assistant: 4 times 3 is 12.
+<|end|>
+User: What is 4 times 4?
+Assistant: 4 times 4 is 16.
+<|end|>
+User: What is 4 times 6?
+Assistant: 4 times 6 is 24.
+<|end|>
+User: What is 4 times 7?
+Assistant: 4 times 7 is 28.
+<|end|>
+User: What is 4 times 8?
+Assistant: 4 times 8 is 32.
+<|end|>
+User: What is 4 times 9?
+Assistant: 4 times 9 is 36.
+<|end|>
+User: What is 5 times 3?
+Assistant: 5 times 3 is 15.
+<|end|>
+User: What is 5 times 4?
+Assistant: 5 times 4 is 20.
+<|end|>
+User: What is 5 times 6?
+Assistant: 5 times 6 is 30.
+<|end|>
+User: What is 5 times 7?
+Assistant: 5 times 7 is 35.
+<|end|>
+User: What is 5 times 8?
+Assistant: 5 times 8 is 40.
+<|end|>
+User: What is 5 times 9?
+Assistant: 5 times 9 is 45.
+<|end|>
+User: What is 6 times 3?
+Assistant: 6 times 3 is 18.
+<|end|>
+User: What is 6 times 4?
+Assistant: 6 times 4 is 24.
+<|end|>
+User: What is 6 times 6?
+Assistant: 6 times 6 is 36.
+<|end|>
+User: What is 6 times 7?
+Assistant: 6 times 7 is 42.
+<|end|>
+User: What is 6 times 8?
+Assistant: 6 times 8 is 48.
+<|end|>
+User: What is 6 times 9?
+Assistant: 6 times 9 is 54.
+<|end|>
+User: What is 7 times 3?
+Assistant: 7 times 3 is 21.
+<|end|>
+User: What is 7 times 4?
+Assistant: 7 times 4 is 28.
+<|end|>
+User: What is 7 times 6?
+Assistant: 7 times 6 is 42.
+<|end|>
+User: What is 7 times 7?
+Assistant: 7 times 7 is 49.
+<|end|>
+User: What is 7 times 8?
+Assistant: 7 times 8 is 56.
+<|end|>
+User: What is 7 times 9?
+Assistant: 7 times 9 is 63.
+<|end|>
+User: What is 8 times 3?
+Assistant: 8 times 3 is 24.
+<|end|>
+User: What is 8 times 4?
+Assistant: 8 times 4 is 32.
+<|end|>
+User: What is 8 times 6?
+Assistant: 8 times 6 is 48.
+<|end|>
+User: What is 8 times 7?
+Assistant: 8 times 7 is 56.
+<|end|>
+User: What is 8 times 8?
+Assistant: 8 times 8 is 64.
+<|end|>
+User: What is 8 times 9?
+Assistant: 8 times 9 is 72.
+<|end|>
+User: What is 9 times 3?
+Assistant: 9 times 3 is 27.
+<|end|>
+User: What is 9 times 4?
+Assistant: 9 times 4 is 36.
+<|end|>
+User: What is 9 times 6?
+Assistant: 9 times 6 is 54.
+<|end|>
+User: What is 9 times 7?
+Assistant: 9 times 7 is 63.
+<|end|>
+User: What is 9 times 8?
+Assistant: 9 times 8 is 72.
+<|end|>
+User: What is 9 times 9?
+Assistant: 9 times 9 is 81.
+<|end|>
+User: What is 10 times 3?
+Assistant: 10 times 3 is 30.
+<|end|>
+User: What is 10 times 4?
+Assistant: 10 times 4 is 40.
+<|end|>
+User: What is 10 times 6?
+Assistant: 10 times 6 is 60.
+<|end|>
+User: What is 10 times 7?
+Assistant: 10 times 7 is 70.
+<|end|>
+User: What is 10 times 8?
+Assistant: 10 times 8 is 80.
+<|end|>
+User: What is 10 times 9?
+Assistant: 10 times 9 is 90.
+<|end|>
+User: What is 11 times 3?
+Assistant: 11 times 3 is 33.
+<|end|>
+User: What is 11 times 4?
+Assistant: 11 times 4 is 44.
+<|end|>
+User: What is 11 times 6?
+Assistant: 11 times 6 is 66.
+<|end|>
+User: What is 11 times 7?
+Assistant: 11 times 7 is 77.
+<|end|>
+User: What is 11 times 8?
+Assistant: 11 times 8 is 88.
+<|end|>
+User: What is 11 times 9?
+Assistant: 11 times 9 is 99.
+<|end|>
+User: What is 12 times 3?
+Assistant: 12 times 3 is 36.
+<|end|>
+User: What is 12 times 4?
+Assistant: 12 times 4 is 48.
+<|end|>
+User: What is 12 times 6?
+Assistant: 12 times 6 is 72.
+<|end|>
+User: What is 12 times 7?
+Assistant: 12 times 7 is 84.
+<|end|>
+User: What is 12 times 8?
+Assistant: 12 times 8 is 96.
+<|end|>
+User: What is 12 times 9?
+Assistant: 12 times 9 is 108.
+<|end|>
+User: Is 20 prime?
+Assistant: No, 20 is not prime. It is divisible by 2.
+<|end|>
+User: Is 23 prime?
+Assistant: Yes, 23 is prime.
+<|end|>
+User: Is 26 prime?
+Assistant: No, 26 is not prime. It is divisible by 2.
+<|end|>
+User: Is 29 prime?
+Assistant: Yes, 29 is prime.
+<|end|>
+User: Is 32 prime?
+Assistant: No, 32 is not prime. It is divisible by 2.
+<|end|>
+User: Is 35 prime?
+Assistant: No, 35 is not prime. It is divisible by 5.
+<|end|>
+User: Is 38 prime?
+Assistant: No, 38 is not prime. It is divisible by 2.
+<|end|>
+User: Is 41 prime?
+Assistant: Yes, 41 is prime.
+<|end|>
+User: Is 44 prime?
+Assistant: No, 44 is not prime. It is divisible by 2.
+<|end|>
+User: Is 47 prime?
+Assistant: Yes, 47 is prime.
+<|end|>
+User: Is 50 prime?
+Assistant: No, 50 is not prime. It is divisible by 2.
+<|end|>
+User: Is 53 prime?
+Assistant: Yes, 53 is prime.
+<|end|>
+User: Is 56 prime?
+Assistant: No, 56 is not prime. It is divisible by 2.
+<|end|>
+User: Is 59 prime?
+Assistant: Yes, 59 is prime.
+<|end|>
+User: Is 62 prime?
+Assistant: No, 62 is not prime. It is divisible by 2.
+<|end|>
+User: Is 65 prime?
+Assistant: No, 65 is not prime. It is divisible by 5.
+<|end|>
+User: Is 68 prime?
+Assistant: No, 68 is not prime. It is divisible by 2.
+<|end|>
+User: Is 71 prime?
+Assistant: Yes, 71 is prime.
+<|end|>
+User: Is 74 prime?
+Assistant: No, 74 is not prime. It is divisible by 2.
+<|end|>
+User: Is 77 prime?
+Assistant: No, 77 is not prime. It is divisible by 7.
+<|end|>
+User: Is 80 prime?
+Assistant: No, 80 is not prime. It is divisible by 2.
+<|end|>
+User: Is 83 prime?
+Assistant: Yes, 83 is prime.
+<|end|>
+User: Is 86 prime?
+Assistant: No, 86 is not prime. It is divisible by 2.
+<|end|>
+User: Is 89 prime?
+Assistant: Yes, 89 is prime.
+<|end|>
+User: Is 92 prime?
+Assistant: No, 92 is not prime. It is divisible by 2.
+<|end|>
+User: Is 95 prime?
+Assistant: No, 95 is not prime. It is divisible by 5.
+<|end|>
+User: Is 98 prime?
+Assistant: No, 98 is not prime. It is divisible by 2.
+<|end|>
+User: Is 101 prime?
+Assistant: Yes, 101 is prime.
+<|end|>
+User: Is 104 prime?
+Assistant: No, 104 is not prime. It is divisible by 2.
+<|end|>
+User: Is 107 prime?
+Assistant: Yes, 107 is prime.
+<|end|>
+User: Is 110 prime?
+Assistant: No, 110 is not prime. It is divisible by 2.
+<|end|>
+User: Is 113 prime?
+Assistant: Yes, 113 is prime.
+<|end|>
+User: Is 116 prime?
+Assistant: No, 116 is not prime. It is divisible by 2.
+<|end|>
+User: Is 119 prime?
+Assistant: No, 119 is not prime. It is divisible by 7.
+<|end|>
+
+### END OF DATASET

@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Wavy Complex Graph — Live Working Model</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #0d1117; color: #e6edf3; font-family: system-ui, -apple-system, sans-serif;
+    padding: 16px; display: flex; flex-direction: column; gap: 12px;
+  }
+  header { display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #30363d; padding-bottom: 10px; }
+  h1 { font-size: 16px; font-weight: 600; }
+  .stats { font-family: monospace; font-size: 13px; color: #7ee787; }
+  .grid { display: grid; grid-template-columns: 1fr 1.2fr 1fr; gap: 12px; }
+  .card {
+    background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 12px;
+    display: flex; flex-direction: column; gap: 8px;
+  }
+  .card h2 { font-size: 13px; color: #8b949e; font-weight: 500; }
+  canvas { width: 100%; height: 280px; background: #0d1117; border-radius: 6px; }
+  .controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+  button {
+    background: #238636; color: #fff; border: none; padding: 6px 14px; border-radius: 6px;
+    cursor: pointer; font-size: 13px; font-weight: 500;
+  }
+  button.secondary { background: #21262d; border: 1px solid #30363d; }
+  button:hover { opacity: 0.9; }
+  label { font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 6px; }
+  input[type=range] { accent-color: #10b981; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Wavy Complex Graph (N=16 nodes, T=4 steps, r(&theta;) = r&#8320; + A cos(n&theta; + &phi;))</h1>
+  <div class="stats" id="stats">Step: 0 | MSE: -- | r0: 0.125 | A: 0.063</div>
+</header>
+
+<div class="controls">
+  <button id="toggleBtn">Pause</button>
+  <button id="resetBtn" class="secondary">Reset</button>
+  <label>Lobes (n): <input type="range" id="lobesSlider" min="1" max="6" value="3"> <span id="lobesVal">3</span></label>
+  <label>Prune weak edges: <input type="range" id="pruneSlider" min="0" max="75" step="25" value="0"> <span id="pruneVal">0%</span></label>
+</div>
+
+<div class="grid">
+  <div class="card">
+    <h2>Wavy Orbit r(&theta;) &amp; Learned Weights</h2>
+    <canvas id="orbitCanvas" width="340" height="280"></canvas>
+  </div>
+  <div class="card">
+    <h2>16-Node Complex Graph (Phase = Color, |z| = Size)</h2>
+    <canvas id="graphCanvas" width="400" height="280"></canvas>
+  </div>
+  <div class="card">
+    <h2>Denoising MSE (Train Curve)</h2>
+    <canvas id="lossCanvas" width="340" height="280"></canvas>
+  </div>
+</div>
+
+<script>
+const N = 16, T = 4, B = 24, K = 3;
+let nLobes = 3, prunePct = 0, running = true, step = 0;
+let r0 = 0.5 / Math.sqrt(N), A = 0.25 / Math.sqrt(N), phi = 0.0;
+let th = [], b = [], lossHist = [];
+let modes = [], Xtr = [], Ytr = [];
+
+function randn() {
+  let u = 0, v = 0;
+  while (!u) u = Math.random();
+  while (!v) v = Math.random();
+  return Math.sqrt(-2 * Math.log(u)) * Math.cos(2 * Math.PI * v);
+}
+
+function init() {
+  step = 0; lossHist = [];
+  r0 = 0.5 / Math.sqrt(N); A = 0.25 / Math.sqrt(N); phi = 0.0;
+  th = Array.from({length: N}, () => Array.from({length: N}, () => (Math.random() * 2 - 1) * Math.PI));
+  b = new Array(N).fill(0);
+  modes = Array.from({length: K}, () => Array.from({length: N}, () => [randn() / Math.sqrt(2*N), randn() / Math.sqrt(2*N)]));
+  Xtr = []; Ytr = [];
+  for (let s = 0; s < B; s++) {
+    const c = Array.from({length: K}, () => [randn() / Math.SQRT2, randn() / Math.SQRT2]);
+    const clean = Array.from({length: N}, (_, j) => {
+      let re = 0, im = 0;
+      for (let k = 0; k < K; k++) {
+        re += c[k][0]*modes[k][j][0] - c[k][1]*modes[k][j][1];
+        im += c[k][0]*modes[k][j][1] + c[k][1]*modes[k][j][0];
+      }
+      return [re, im];
+    });
+    const noisy = clean.map(([re, im]) => [re + 0.35*randn()/Math.SQRT2, im + 0.35*randn()/Math.SQRT2]);
+    Xtr.push(noisy); Ytr.push(clean);
+  }
+}
+
+function trainStep() {
+  const lr = 0.06;
+  const W = Array.from({length: N}, (_, i) => Array.from({length: N}, (_, j) => {
+    const r = r0 + A * Math.cos(nLobes * th[i][j] + phi);
+    return [r * Math.cos(th[i][j]), r * Math.sin(th[i][j])];
+  }));
+
+  let totalLoss = 0;
+  const dW = Array.from({length: N}, () => Array.from({length: N}, () => [0, 0]));
+  const db = new Array(N).fill(0);
+
+  for (let s = 0; s < B; s++) {
+    const zs = [Xtr[s]], pres = [], absL = [], masks = [], scales = [];
+    for (let t = 0; t < T; t++) {
+      const zPrev = zs[t];
+      const pre = Array.from({length: N}, (_, j) => {
+        let re = Xtr[s][j][0], im = Xtr[s][j][1];
+        for (let i = 0; i < N; i++) {
+          re += zPrev[i][0]*W[i][j][0] - zPrev[i][1]*W[i][j][1];
+          im += zPrev[i][0]*W[i][j][1] + zPrev[i][1]*W[i][j][0];
+        }
+        return [re, im];
+      });
+      const ab = pre.map(([re, im]) => Math.hypot(re, im));
+      const m = ab.map((v, j) => (v + b[j]) > 0);
+      const sc = ab.map((v, j) => m[j] ? (v + b[j]) / Math.max(v, 1e-12) : 0);
+      zs.push(pre.map(([re, im], j) => [sc[j]*re, sc[j]*im]));
+      pres.push(pre); absL.push(ab); masks.push(m); scales.push(sc);
+    }
+
+    const zOut = zs[T];
+    let dz = zOut.map(([re, im], j) => {
+      const dre = re - Ytr[s][j][0], dim = im - Ytr[s][j][1];
+      totalLoss += (dre*dre + dim*dim) / (B * N);
+      return [dre / B, dim / B];
+    });
+
+    for (let t = T - 1; t >= 0; t--) {
+      const pre = pres[t], ab = absL[t], m = masks[t], sc = scales[t], zPrev = zs[t];
+      const dpre = pre.map(([re, im], j) => {
+        if (!m[j]) return [0, 0];
+        const r = Math.max(ab[j], 1e-12);
+        const rd = dz[j][0]*re + dz[j][1]*im;
+        db[j] += rd / r;
+        const k = b[j] / (r*r*r);
+        return [sc[j]*dz[j][0] - k*rd*re, sc[j]*dz[j][1] - k*rd*im];
+      });
+      for (let i = 0; i < N; i++) {
+        for (let j = 0; j < N; j++) {
+          dW[i][j][0] += zPrev[i][0]*dpre[j][0] + zPrev[i][1]*dpre[j][1];
+          dW[i][j][1] += zPrev[i][0]*dpre[j][1] - zPrev[i][1]*dpre[j][0];
+        }
+      }
+      dz = Array.from({length: N}, (_, i) => {
+        let re = 0, im = 0;
+        for (let j = 0; j < N; j++) {
+          re += dpre[j][0]*W[i][j][0] + dpre[j][1]*W[i][j][1];
+          im += dpre[j][1]*W[i][j][0] - dpre[j][0]*W[i][j][1];
+        }
+        return [re, im];
+      });
+    }
+  }
+
+  for (let j = 0; j < N; j++) b[j] -= lr * db[j];
+  let gr0 = 0, gA = 0, gph = 0;
+  for (let i = 0; i < N; i++) {
+    for (let j = 0; j < N; j++) {
+      const t = th[i][j], c = Math.cos(nLobes*t + phi), s = Math.sin(nLobes*t + phi);
+      const r = r0 + A*c, dr = -nLobes*A*s;
+      const ce = Math.cos(t), se = Math.sin(t);
+      const gRe = dW[i][j][0], gIm = dW[i][j][1];
+      const dth_re = dr*ce - r*se, dth_im = dr*se + r*ce;
+      th[i][j] -= lr * (gRe*dth_re + gIm*dth_im);
+      const proj = gRe*ce + gIm*se;
+      gr0 += proj; gA += proj*c; gph += proj*(-A*s);
+    }
+  }
+  r0 -= lr * 0.5 * gr0 / (N*N);
+  A  -= lr * 0.5 * gA  / (N*N);
+  phi -= lr * 0.5 * gph / (N*N);
+
+  step++;
+  lossHist.push(totalLoss);
+  if (lossHist.length > 200) lossHist.shift();
+  document.getElementById('stats').textContent =
+    `Step: ${step} | MSE: ${totalLoss.toFixed(4)} | r0: ${r0.toFixed(3)} | A: ${A.toFixed(3)}`;
+}
+
+function draw() {
+  // 1. Orbit
+  const oc = document.getElementById('orbitCanvas').getContext('2d');
+  oc.clearRect(0, 0, 340, 280);
+  const cx = 170, cy = 140, sc = 360;
+  oc.strokeStyle = '#30363d'; oc.beginPath(); oc.arc(cx, cy, r0*sc, 0, Math.PI*2); oc.stroke();
+  oc.strokeStyle = '#10b981'; oc.lineWidth = 2; oc.beginPath();
+  for (let k = 0; k <= 200; k++) {
+    const a = (k / 200) * Math.PI * 2;
+    const r = Math.abs(r0 + A * Math.cos(nLobes * a + phi)) * sc;
+    const x = cx + r * Math.cos(a), y = cy + r * Math.sin(a);
+    k === 0 ? oc.moveTo(x, y) : oc.lineTo(x, y);
+  }
+  oc.stroke();
+  oc.fillStyle = 'rgba(59,130,246,0.55)';
+  for (let i = 0; i < N; i++) for (let j = 0; j < N; j++) {
+    const a = th[i][j], r = Math.abs(r0 + A * Math.cos(nLobes * a + phi)) * sc;
+    oc.fillRect(cx + r*Math.cos(a) - 1.5, cy + r*Math.sin(a) - 1.5, 3, 3);
+  }
+
+  // 2. Graph
+  const gc = document.getElementById('graphCanvas').getContext('2d');
+  gc.clearRect(0, 0, 400, 280);
+  const gcx = 200, gcy = 140, gr = 105;
+  const pos = Array.from({length: N}, (_, i) => [gcx + gr*Math.cos(2*Math.PI*i/N), gcy + gr*Math.sin(2*Math.PI*i/N)]);
+  const mags = [];
+  for (let i = 0; i < N; i++) for (let j = 0; j < N; j++) mags.push(Math.abs(r0 + A*Math.cos(nLobes*th[i][j] + phi)));
+  mags.sort((a,b)=>a-b);
+  const thresh = mags[Math.floor(mags.length * prunePct / 100)] || 0;
+  for (let i = 0; i < N; i++) for (let j = 0; j < N; j++) {
+    const m = Math.abs(r0 + A*Math.cos(nLobes*th[i][j] + phi));
+    if (m < thresh || i === j) continue;
+    gc.strokeStyle = `rgba(16,185,129,${Math.min(0.6, m*1.5)})`;
+    gc.lineWidth = Math.max(0.5, m * 4);
+    gc.beginPath(); gc.moveTo(pos[i][0], pos[i][1]); gc.lineTo(pos[j][0], pos[j][1]); gc.stroke();
+  }
+  for (let i = 0; i < N; i++) {
+    const hue = ((th[i][i] % (2*Math.PI)) + 2*Math.PI) % (2*Math.PI) * 180 / Math.PI;
+    gc.fillStyle = `hsl(${hue}, 80%, 60%)`;
+    gc.beginPath(); gc.arc(pos[i][0], pos[i][1], 6, 0, Math.PI*2); gc.fill();
+  }
+
+  // 3. Loss
+  const lc = document.getElementById('lossCanvas').getContext('2d');
+  lc.clearRect(0, 0, 340, 280);
+  if (lossHist.length > 1) {
+    const maxL = Math.max(...lossHist, 0.15);
+    lc.strokeStyle = '#f59e0b'; lc.lineWidth = 2; lc.beginPath();
+    lossHist.forEach((v, idx) => {
+      const x = 10 + (idx / 199) * 320, y = 265 - (v / maxL) * 245;
+      idx === 0 ? lc.moveTo(x, y) : lc.lineTo(x, y);
+    });
+    lc.stroke();
+  }
+}
+
+function loop() {
+  if (running) trainStep();
+  draw();
+  requestAnimationFrame(loop);
+}
+
+document.getElementById('toggleBtn').onclick = (e) => { running = !running; e.target.textContent = running ? 'Pause' : 'Play'; };
+document.getElementById('resetBtn').onclick = () => init();
+document.getElementById('lobesSlider').oninput = (e) => { nLobes = +e.target.value; document.getElementById('lobesVal').textContent = nLobes; };
+document.getElementById('pruneSlider').oninput = (e) => { prunePct = +e.target.value; document.getElementById('pruneVal').textContent = prunePct + '%'; };
+
+init();
+loop();
+</script>
+</body>
+</html>
