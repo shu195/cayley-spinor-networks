@@ -46,14 +46,14 @@ Open `wavy_net_demo.html` in any browser to watch the 16-node wavy-orbit graph t
 
 ## Author & License
 
-- **Author:** [shu195](https://github.com/shu195)
+- **Author:** [Shubham Barmase (shu195)](https://github.com/shu195)
 - **License:** [MIT](LICENSE)
 
 ## Citation
 
 ```bibtex
-@misc{shu195_cayley_spinor_2026,
-  author       = {shu195},
+@misc{barmase2026cayleyspinor,
+  author       = {Shubham Barmase},
   title        = {From Wavy Unitary Orbits to Trig-Free Cayley-Spinor Networks and Non-Abelian Sequence Memory},
   year         = {2026},
   howpublished = {\url{https://github.com/shu195/cayley-spinor-networks}}
